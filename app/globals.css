@@ -46,7 +46,9 @@ a {
 .viewerLayout {
   display: grid;
   grid-template-columns: 280px minmax(0, 1fr) 340px;
+  height: 100vh;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 .pageSidebar {
@@ -54,6 +56,7 @@ a {
   color: #f8fafc;
   display: flex;
   flex-direction: column;
+  min-height: 0;
   min-width: 0;
 }
 
@@ -78,7 +81,9 @@ a {
 
 .pageList {
   display: grid;
+  flex: 1;
   gap: 6px;
+  min-height: 0;
   overflow: auto;
   padding: 12px;
 }
@@ -116,6 +121,7 @@ a {
 .viewerMain {
   display: grid;
   grid-template-rows: 70px minmax(0, 1fr);
+  min-height: 0;
   min-width: 0;
 }
 
@@ -163,12 +169,15 @@ a {
 }
 
 .sceneCanvasWrap {
+  height: 100%;
   min-height: 0;
   position: relative;
 }
 
 .sceneCanvasWrap canvas {
   display: block;
+  height: 100% !important;
+  width: 100% !important;
 }
 
 .sceneControls {
@@ -224,6 +233,7 @@ a {
   display: grid;
   gap: 18px;
   grid-auto-rows: max-content;
+  min-height: 0;
   overflow: auto;
   padding: 16px;
 }
@@ -276,7 +286,9 @@ a {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 340px;
   grid-template-rows: 64px minmax(0, 1fr);
+  height: 100vh;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 .adminHeader {
@@ -353,6 +365,8 @@ a {
   .viewerLayout,
   .adminLayout {
     grid-template-columns: 1fr;
+    height: auto;
+    overflow: visible;
   }
 
   .viewerMain {

@@ -26,7 +26,7 @@ export function SceneCanvas({ scene, focusTarget, mode }: Props) {
       {!scene ? (
         <div className="sceneLoading">장면 로딩 중</div>
       ) : (
-        <Canvas shadows camera={{ position: [0, 13, 15], fov: 48 }}>
+        <Canvas shadows camera={{ position: [0, 13, 15], fov: 48 }} style={{ height: "100%", width: "100%" }}>
           <color attach="background" args={["#dfe7ef"]} />
           <ambientLight intensity={0.65} />
           <directionalLight position={[10, 18, 8]} intensity={1.2} castShadow />
