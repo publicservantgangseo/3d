@@ -1,0 +1,4599 @@
+{
+  "id": "page-05",
+  "pageNumber": 5,
+  "title": "업무공간 05",
+  "sourcePdfPage": 5,
+  "scale": {
+    "pdfWidth": 842.0,
+    "pdfHeight": 1191.0,
+    "worldUnitsPerPdfPoint": 0.01
+  },
+  "cameraPresets": [
+    {
+      "id": "overview",
+      "name": "전체 보기",
+      "position": [
+        0,
+        13,
+        15
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "top",
+      "name": "평면 보기",
+      "position": [
+        0,
+        20,
+        0.01
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room-05-001",
+      "name": "ELEV 홀",
+      "category": "office",
+      "position": [
+        0.6599,
+        0.01,
+        -0.4635
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dbeafe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-002",
+      "name": "대외협력실",
+      "category": "office",
+      "position": [
+        3.7904,
+        0.01,
+        4.6921
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dcfce7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-003",
+      "name": "휴게실#1",
+      "category": "office",
+      "position": [
+        2.106,
+        0.01,
+        2.8764
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fef3c7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-004",
+      "name": "직원라운지",
+      "category": "office",
+      "position": [
+        0.3908,
+        0.01,
+        3.8786
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fee2e2",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-005",
+      "name": "회의실#4",
+      "category": "office",
+      "position": [
+        -1.3918,
+        0.01,
+        2.7918
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#ede9fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-006",
+      "name": "휴게실#2",
+      "category": "office",
+      "position": [
+        -1.3918,
+        0.01,
+        0.4057
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#e0f2fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-007",
+      "name": "회의실#2",
+      "category": "office",
+      "position": [
+        2.0949,
+        0.01,
+        0.4494
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dbeafe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-008",
+      "name": "회의실#1",
+      "category": "office",
+      "position": [
+        2.0949,
+        0.01,
+        1.6733
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dcfce7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-009",
+      "name": "회의실#3",
+      "category": "office",
+      "position": [
+        -1.3918,
+        0.01,
+        1.6296
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fef3c7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-010",
+      "name": "지원센터",
+      "category": "office",
+      "position": [
+        -1.7204,
+        0.01,
+        4.406
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fee2e2",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-011",
+      "name": "민원실",
+      "category": "office",
+      "position": [
+        -2.2572,
+        0.01,
+        -0.5125
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#ede9fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-012",
+      "name": "스마트기자실",
+      "category": "office",
+      "position": [
+        3.3694,
+        0.01,
+        4.9951
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#e0f2fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-013",
+      "name": "지역경제과",
+      "category": "office",
+      "position": [
+        3.0303,
+        0.01,
+        3.0685
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dbeafe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-014",
+      "name": "국장실",
+      "category": "office",
+      "position": [
+        3.6902,
+        0.01,
+        1.8903
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dcfce7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-015",
+      "name": "휴게실",
+      "category": "office",
+      "position": [
+        3.014,
+        0.01,
+        2.0643
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fef3c7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-016",
+      "name": "비서실",
+      "category": "office",
+      "position": [
+        3.1462,
+        0.01,
+        1.5457
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fee2e2",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-017",
+      "name": "복지정책과",
+      "category": "office",
+      "position": [
+        3.1456,
+        0.01,
+        1.1299
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#ede9fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-018",
+      "name": "통합상담실",
+      "category": "office",
+      "position": [
+        2.8503,
+        0.01,
+        -0.931
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#e0f2fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-019",
+      "name": "중회의실",
+      "category": "office",
+      "position": [
+        2.5394,
+        0.01,
+        -1.7418
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dbeafe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-020",
+      "name": "탕비실",
+      "category": "office",
+      "position": [
+        2.7266,
+        0.01,
+        1.637
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dcfce7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-021",
+      "name": "어르신 복지과",
+      "category": "office",
+      "position": [
+        -2.959,
+        0.01,
+        2.0663
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fef3c7",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-022",
+      "name": "장애인복지과",
+      "category": "office",
+      "position": [
+        -2.8948,
+        0.01,
+        0.4494
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#fee2e2",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-023",
+      "name": "복지지원과",
+      "category": "office",
+      "position": [
+        -2.8634,
+        0.01,
+        4.1843
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#ede9fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-024",
+      "name": "상담실",
+      "category": "office",
+      "position": [
+        -2.2205,
+        0.01,
+        2.8435
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#e0f2fe",
+      "source": "derived"
+    },
+    {
+      "id": "room-05-025",
+      "name": "생활보장과",
+      "category": "office",
+      "position": [
+        -2.7973,
+        0.01,
+        -0.4071
+      ],
+      "size": [
+        1.45,
+        0.08,
+        0.95
+      ],
+      "color": "#dbeafe",
+      "source": "derived"
+    }
+  ],
+  "walls": [
+    {
+      "id": "wall-05-north",
+      "position": [
+        0,
+        0.9,
+        -5.955
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        8.42,
+        1.8,
+        0.08
+      ],
+      "source": "derived"
+    },
+    {
+      "id": "wall-05-south",
+      "position": [
+        0,
+        0.9,
+        5.955
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        8.42,
+        1.8,
+        0.08
+      ],
+      "source": "derived"
+    },
+    {
+      "id": "wall-05-west",
+      "position": [
+        -4.21,
+        0.9,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.08,
+        1.8,
+        11.91
+      ],
+      "source": "derived"
+    },
+    {
+      "id": "wall-05-east",
+      "position": [
+        4.21,
+        0.9,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.08,
+        1.8,
+        11.91
+      ],
+      "source": "derived"
+    }
+  ],
+  "doors": [],
+  "furniture": [
+    {
+      "id": "furniture-05-001",
+      "name": "커피머신",
+      "category": "appliance",
+      "position": [
+        2.0386,
+        0.85,
+        2.0199
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-002",
+      "name": "스탠딩냉장고",
+      "category": "appliance",
+      "position": [
+        2.4006,
+        0.85,
+        2.0166
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-003",
+      "name": "정수기",
+      "category": "appliance",
+      "position": [
+        2.3305,
+        0.85,
+        2.0361
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-004",
+      "name": "전자레인지",
+      "category": "appliance",
+      "position": [
+        2.1021,
+        0.85,
+        2.0125
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-005",
+      "name": "커피머신",
+      "category": "appliance",
+      "position": [
+        -1.1672,
+        0.85,
+        0.7167
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-006",
+      "name": "스탠딩냉장고",
+      "category": "appliance",
+      "position": [
+        -1.5292,
+        0.85,
+        0.7201
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-007",
+      "name": "정수기",
+      "category": "appliance",
+      "position": [
+        -1.4599,
+        0.85,
+        0.7006
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-008",
+      "name": "전자레인지",
+      "category": "appliance",
+      "position": [
+        -1.2307,
+        0.85,
+        0.7241
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-009",
+      "name": "회의실#4",
+      "category": "table",
+      "position": [
+        -1.3918,
+        0.37,
+        2.7918
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        1.8,
+        0.74,
+        0.9
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-010",
+      "name": "회의실#2",
+      "category": "table",
+      "position": [
+        2.0949,
+        0.37,
+        0.4494
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        1.8,
+        0.74,
+        0.9
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-011",
+      "name": "회의실#1",
+      "category": "table",
+      "position": [
+        2.0949,
+        0.37,
+        1.6733
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        1.8,
+        0.74,
+        0.9
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-012",
+      "name": "회의실#3",
+      "category": "table",
+      "position": [
+        -1.3918,
+        0.37,
+        1.6296
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        1.8,
+        0.74,
+        0.9
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-013",
+      "name": "중회의실",
+      "category": "table",
+      "position": [
+        2.5394,
+        0.37,
+        -1.7418
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        1.8,
+        0.74,
+        0.9
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-014",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        3.359,
+        0.8,
+        0.976
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-015",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        3.359,
+        0.8,
+        1.0278
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-016",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.6503,
+        0.8,
+        4.9111
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-017",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.1351,
+        0.8,
+        4.8372
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-018",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -2.7371,
+        0.8,
+        4.7808
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-019",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -2.3279,
+        0.8,
+        4.719
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-020",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.6162,
+        0.8,
+        2.9718
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-021",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.5658,
+        0.8,
+        2.9718
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-022",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.5154,
+        0.8,
+        2.9718
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-023",
+      "name": "냉장고받침대",
+      "category": "appliance",
+      "position": [
+        3.4192,
+        0.85,
+        1.9837
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-024",
+      "name": "냉장고받침대",
+      "category": "appliance",
+      "position": [
+        3.4192,
+        0.85,
+        0.9586
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.7,
+        1.7,
+        0.7
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-025",
+      "name": "2인 옷장",
+      "category": "cabinet",
+      "position": [
+        4.1445,
+        0.8,
+        3.129
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-026",
+      "name": "2인 옷장",
+      "category": "cabinet",
+      "position": [
+        4.21,
+        0.8,
+        2.0884
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-027",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.6503,
+        0.8,
+        -0.9599
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-028",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.3,
+        0.8,
+        -2.697
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-029",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -4.21,
+        0.8,
+        -5.955
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-030",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -2.0582,
+        0.8,
+        -2.697
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-031",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -1.7315,
+        0.8,
+        -2.697
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-032",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -1.5063,
+        0.8,
+        -2.697
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-033",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        4.1838,
+        0.8,
+        3.8343
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    },
+    {
+      "id": "furniture-05-034",
+      "name": "옷장",
+      "category": "cabinet",
+      "position": [
+        -3.4663,
+        0.8,
+        -2.697
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.9,
+        1.6,
+        0.45
+      ],
+      "source": "derived",
+      "confidence": 0.55
+    }
+  ],
+  "labels": [
+    {
+      "id": "label-05-001",
+      "text": "커피머신",
+      "position": [
+        2.0386,
+        0.04,
+        2.0199
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 624.8554,
+        "y": 393.5069,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-002",
+      "text": "스탠딩냉장고",
+      "position": [
+        2.4006,
+        0.04,
+        2.0166
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 661.0571,
+        "y": 393.8428,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-003",
+      "text": "600X645X1855(h) _312L",
+      "position": [
+        2.4097,
+        0.04,
+        2.026
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 661.9736,
+        "y": 392.9024,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-004",
+      "text": "정수기",
+      "position": [
+        2.3305,
+        0.04,
+        2.0361
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 654.0524,
+        "y": 391.8948,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-005",
+      "text": "300X360X1130(h)",
+      "position": [
+        2.3436,
+        0.04,
+        2.0434
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 655.3617,
+        "y": 391.1558,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-006",
+      "text": "전자레인지",
+      "position": [
+        2.1021,
+        0.04,
+        2.0125
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 631.2054,
+        "y": 394.2459,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-007",
+      "text": "완",
+      "position": [
+        4.1419,
+        0.04,
+        0.7094
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 835.1917,
+        "y": 524.564,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-008",
+      "text": "완",
+      "position": [
+        2.8287,
+        0.04,
+        4.8742
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 703.8706,
+        "y": 108.0834,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-009",
+      "text": "커피머신",
+      "position": [
+        -1.1672,
+        0.04,
+        0.7167
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 304.2774,
+        "y": 523.825,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-010",
+      "text": "스탠딩냉장고",
+      "position": [
+        -1.5292,
+        0.04,
+        0.7201
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 268.0757,
+        "y": 523.4892,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-011",
+      "text": "600X645X1855(h) _312L",
+      "position": [
+        -1.5391,
+        0.04,
+        0.7107
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 267.0938,
+        "y": 524.4296,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-012",
+      "text": "정수기",
+      "position": [
+        -1.4599,
+        0.04,
+        0.7006
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 275.0149,
+        "y": 525.4372,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-013",
+      "text": "300X360X1130(h)",
+      "position": [
+        -1.4723,
+        0.04,
+        0.6932
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 273.7711,
+        "y": 526.1761,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-014",
+      "text": "전자레인지",
+      "position": [
+        -1.2307,
+        0.04,
+        0.7241
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 297.9274,
+        "y": 523.0861,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-015",
+      "text": "재",
+      "position": [
+        2.7639,
+        0.04,
+        3.53
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 697.3897,
+        "y": 242.4992,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-016",
+      "text": "아트리움계단#1",
+      "position": [
+        1.4127,
+        0.04,
+        2.8301
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 562.2717,
+        "y": 312.4948,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-017",
+      "text": "ELEV 홀",
+      "position": [
+        0.6599,
+        0.04,
+        -0.4635
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 486.9879,
+        "y": 641.8503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-018",
+      "text": "대외협력실",
+      "position": [
+        3.7904,
+        0.04,
+        4.6921
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 800.0375,
+        "y": 126.2876,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-019",
+      "text": "휴게실#1",
+      "position": [
+        2.106,
+        0.04,
+        2.8764
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 631.5982,
+        "y": 307.8597,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-020",
+      "text": "직원라운지",
+      "position": [
+        0.3908,
+        0.04,
+        3.8786
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 460.0821,
+        "y": 207.6357,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-021",
+      "text": "회의실#4",
+      "position": [
+        -1.3918,
+        0.04,
+        2.7918
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 281.8232,
+        "y": 316.3237,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-022",
+      "text": "휴게실#2",
+      "position": [
+        -1.3918,
+        0.04,
+        0.4057
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 281.8232,
+        "y": 554.9267,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-023",
+      "text": "복도#2",
+      "position": [
+        -1.7387,
+        0.04,
+        0.6422
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 247.1272,
+        "y": 531.2814,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-024",
+      "text": "복도#1",
+      "position": [
+        2.5217,
+        0.04,
+        2.5177
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 673.1679,
+        "y": 343.7308,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-025",
+      "text": "회의실#2",
+      "position": [
+        2.0949,
+        0.04,
+        0.4494
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 630.4853,
+        "y": 550.5604,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-026",
+      "text": "회의실#1",
+      "position": [
+        2.0949,
+        0.04,
+        1.6733
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 630.4853,
+        "y": 428.1689,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-027",
+      "text": "회의실#3",
+      "position": [
+        -1.3918,
+        0.04,
+        1.6296
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 281.8232,
+        "y": 432.5352,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-028",
+      "text": "위기가정 통합",
+      "position": [
+        -1.5895,
+        0.04,
+        4.543
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 262.053,
+        "y": 141.2003,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-029",
+      "text": "지원센터",
+      "position": [
+        -1.7204,
+        0.04,
+        4.406
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 248.9602,
+        "y": 154.9039,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-030",
+      "text": "민원실",
+      "position": [
+        -2.2572,
+        0.04,
+        -0.5125
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 195.2796,
+        "y": 646.754,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-031",
+      "text": "스마트기자실",
+      "position": [
+        3.3694,
+        0.04,
+        4.9951
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 757.944,
+        "y": 95.992,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-032",
+      "text": "지역경제과",
+      "position": [
+        3.0303,
+        0.04,
+        3.0685
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 724.0336,
+        "y": 288.6479,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-033",
+      "text": "미래경제국",
+      "position": [
+        3.8218,
+        0.04,
+        2.0105
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 803.1798,
+        "y": 394.4474,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-034",
+      "text": "국장실",
+      "position": [
+        3.6902,
+        0.04,
+        1.8903
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 790.0215,
+        "y": 406.4716,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-035",
+      "text": "복지가족국",
+      "position": [
+        3.8218,
+        0.04,
+        1.3052
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 803.1798,
+        "y": 464.9804,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-036",
+      "text": "국장실",
+      "position": [
+        3.6902,
+        0.04,
+        1.1883
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 790.0215,
+        "y": 476.6687,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-037",
+      "text": "지역경제과",
+      "position": [
+        3.1501,
+        0.04,
+        2.1845
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 736.0135,
+        "y": 377.0492,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-038",
+      "text": "휴게실",
+      "position": [
+        3.014,
+        0.04,
+        2.0643
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 722.397,
+        "y": 389.0734,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-039",
+      "text": "비서실",
+      "position": [
+        3.1462,
+        0.04,
+        1.5457
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 735.6207,
+        "y": 440.932,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-040",
+      "text": "복지정책과",
+      "position": [
+        3.1456,
+        0.04,
+        1.1299
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 735.5553,
+        "y": 482.5129,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-041",
+      "text": "휴게실",
+      "position": [
+        3.0212,
+        0.04,
+        1.0405
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 723.1171,
+        "y": 491.447,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-042",
+      "text": "통합상담실",
+      "position": [
+        2.8503,
+        0.04,
+        -0.931
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 706.0309,
+        "y": 688.6036,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-043",
+      "text": "중회의실",
+      "position": [
+        2.5394,
+        0.04,
+        -1.7418
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 674.9355,
+        "y": 769.6829,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-044",
+      "text": "탕비실",
+      "position": [
+        2.7266,
+        0.04,
+        1.637
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 693.6582,
+        "y": 431.7963,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-045",
+      "text": "복도#3",
+      "position": [
+        2.902,
+        0.04,
+        4.0291
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 711.2026,
+        "y": 192.5887,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-046",
+      "text": "재",
+      "position": [
+        0.6697,
+        0.04,
+        -2.6467
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 487.9698,
+        "y": 860.1667,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-047",
+      "text": "재",
+      "position": [
+        3.0847,
+        0.04,
+        4.7297
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 729.4671,
+        "y": 122.5259,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-048",
+      "text": "재",
+      "position": [
+        2.9904,
+        0.04,
+        4.146
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 720.0403,
+        "y": 180.9003,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-049",
+      "text": "재",
+      "position": [
+        2.6369,
+        0.04,
+        2.9631
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 684.6896,
+        "y": 299.1942,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-050",
+      "text": "재",
+      "position": [
+        2.6369,
+        0.04,
+        1.2138
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 684.6896,
+        "y": 474.1161,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-051",
+      "text": "재",
+      "position": [
+        3.3151,
+        0.04,
+        1.4872
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 752.5105,
+        "y": 446.7761,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-052",
+      "text": "재",
+      "position": [
+        3.3151,
+        0.04,
+        1.2857
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 752.5105,
+        "y": 466.9284,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-053",
+      "text": "재",
+      "position": [
+        2.6369,
+        0.04,
+        -0.6899
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 684.6896,
+        "y": 664.488,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-054",
+      "text": "재",
+      "position": [
+        3.1783,
+        0.04,
+        -1.2844
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 738.8285,
+        "y": 723.9372,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-055",
+      "text": "재",
+      "position": [
+        2.305,
+        0.04,
+        -1.406
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 651.4993,
+        "y": 736.0958,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-056",
+      "text": "재",
+      "position": [
+        -1.5017,
+        0.04,
+        -0.9942
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 270.8252,
+        "y": 694.9179,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-057",
+      "text": "재",
+      "position": [
+        -1.7878,
+        0.04,
+        -0.7933
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 242.2174,
+        "y": 674.8328,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-058",
+      "text": "재",
+      "position": [
+        -4.21,
+        0.04,
+        -5.955
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 0.0,
+        "y": 1191.0,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-059",
+      "text": "재",
+      "position": [
+        -4.21,
+        0.04,
+        -5.955
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 0.0,
+        "y": 1191.0,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-060",
+      "text": "재",
+      "position": [
+        -4.21,
+        0.04,
+        -5.955
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 0.0,
+        "y": 1191.0,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-061",
+      "text": "재",
+      "position": [
+        -4.21,
+        0.04,
+        -5.955
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 0.0,
+        "y": 1191.0,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-062",
+      "text": "재",
+      "position": [
+        -1.325,
+        0.04,
+        3.749
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 288.5005,
+        "y": 220.6003,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-063",
+      "text": "T",
+      "position": [
+        -1.1803,
+        0.04,
+        -2.7078
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 302.9681,
+        "y": 866.2795,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-064",
+      "text": "E",
+      "position": [
+        -0.7155,
+        0.04,
+        -2.7085
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 349.4477,
+        "y": 866.3467,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-065",
+      "text": "A",
+      "position": [
+        -3.6372,
+        0.04,
+        -0.4709
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 57.2811,
+        "y": 642.5892,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-066",
+      "text": "A",
+      "position": [
+        -4.21,
+        0.04,
+        -5.955
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 0.0,
+        "y": 1191.0,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-067",
+      "text": "B",
+      "position": [
+        -4.21,
+        0.04,
+        -5.955
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 0.0,
+        "y": 1191.0,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-068",
+      "text": "B",
+      "position": [
+        -3.6385,
+        0.04,
+        2.8892
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 57.1502,
+        "y": 306.5834,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-069",
+      "text": "B",
+      "position": [
+        -1.8795,
+        0.04,
+        4.674
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 233.0524,
+        "y": 128.1014,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-070",
+      "text": "F",
+      "position": [
+        -1.268,
+        0.04,
+        4.584
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 294.1959,
+        "y": 137.1027,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-071",
+      "text": "H",
+      "position": [
+        -1.0075,
+        0.04,
+        3.7503
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 320.2507,
+        "y": 220.466,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-072",
+      "text": "H",
+      "position": [
+        1.8559,
+        0.04,
+        3.6838
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 606.5909,
+        "y": 227.1162,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-073",
+      "text": "I",
+      "position": [
+        2.7796,
+        0.04,
+        5.0327
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 698.9608,
+        "y": 92.2303,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-074",
+      "text": "B",
+      "position": [
+        3.0035,
+        0.04,
+        4.938
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 721.3496,
+        "y": 101.7019,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-075",
+      "text": "B",
+      "position": [
+        3.609,
+        0.04,
+        4.936
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 781.9039,
+        "y": 101.9034,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-076",
+      "text": "B",
+      "position": [
+        4.1818,
+        0.04,
+        3.8968
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 839.185,
+        "y": 205.822,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-077",
+      "text": "G",
+      "position": [
+        4.176,
+        0.04,
+        2.0273
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 838.5959,
+        "y": 392.768,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-078",
+      "text": "B",
+      "position": [
+        4.1825,
+        0.04,
+        1.4174
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 839.2505,
+        "y": 453.7623,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-079",
+      "text": "G",
+      "position": [
+        4.176,
+        0.04,
+        0.7873
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 838.5959,
+        "y": 516.7717,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-080",
+      "text": "A",
+      "position": [
+        3.2621,
+        0.04,
+        -2.5372
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 747.2079,
+        "y": 849.2173,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-081",
+      "text": "D",
+      "position": [
+        1.8769,
+        0.04,
+        -1.6525
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 608.6857,
+        "y": 760.7487,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-082",
+      "text": "복합기",
+      "position": [
+        2.9492,
+        0.04,
+        3.2627
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 715.916,
+        "y": 269.2345,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-083",
+      "text": "세단기",
+      "position": [
+        2.8739,
+        0.04,
+        3.2627
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 708.3877,
+        "y": 269.2345,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-084",
+      "text": "경제정책팀",
+      "position": [
+        4.0653,
+        0.04,
+        3.4487
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 827.5324,
+        "y": 250.6272,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-085",
+      "text": "(7)",
+      "position": [
+        4.0228,
+        0.04,
+        3.3782
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 823.2773,
+        "y": 257.6805,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-086",
+      "text": "6단",
+      "position": [
+        3.4703,
+        0.04,
+        0.7275
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 768.0255,
+        "y": 522.7503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-087",
+      "text": "6단",
+      "position": [
+        3.8735,
+        0.04,
+        0.7275
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 808.3514,
+        "y": 522.7503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-088",
+      "text": "6단",
+      "position": [
+        3.7727,
+        0.04,
+        0.7275
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 798.2699,
+        "y": 522.7503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-089",
+      "text": "6단",
+      "position": [
+        3.6719,
+        0.04,
+        0.7275
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 788.1885,
+        "y": 522.7503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-090",
+      "text": "6단",
+      "position": [
+        3.5711,
+        0.04,
+        0.7275
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 778.107,
+        "y": 522.7503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-091",
+      "text": "6단",
+      "position": [
+        4.0751,
+        0.04,
+        0.7275
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 828.5144,
+        "y": 522.7503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-092",
+      "text": "6단",
+      "position": [
+        3.9743,
+        0.04,
+        0.7275
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 818.4329,
+        "y": 522.7503,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-093",
+      "text": "6단",
+      "position": [
+        3.1344,
+        0.04,
+        -0.9116
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 734.4424,
+        "y": 686.6555,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-094",
+      "text": "6단",
+      "position": [
+        2.9328,
+        0.04,
+        -0.9116
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 714.2794,
+        "y": 686.6555,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-095",
+      "text": "6단",
+      "position": [
+        3.0336,
+        0.04,
+        -0.9116
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 724.3609,
+        "y": 686.6555,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-096",
+      "text": "복합기",
+      "position": [
+        3.2896,
+        0.04,
+        -1.7109
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 749.9574,
+        "y": 766.5929,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-097",
+      "text": "세단기",
+      "position": [
+        3.2896,
+        0.04,
+        -1.6337
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 749.9574,
+        "y": 758.8679,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-098",
+      "text": "1인가구정책팀",
+      "position": [
+        4.1786,
+        0.04,
+        0.5562
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 838.8577,
+        "y": 539.8797,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-099",
+      "text": "(5)",
+      "position": [
+        4.1354,
+        0.04,
+        0.4581
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 834.5371,
+        "y": 549.6871,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-100",
+      "text": "희망복지팀",
+      "position": [
+        4.1786,
+        0.04,
+        0.082
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 838.8577,
+        "y": 587.3047,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-101",
+      "text": "(7)",
+      "position": [
+        4.1354,
+        0.04,
+        0.0121
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 834.5371,
+        "y": 594.2909,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-102",
+      "text": "긴급복지팀",
+      "position": [
+        4.1786,
+        0.04,
+        -0.5508
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 838.8577,
+        "y": 650.5829,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-103",
+      "text": "(7)",
+      "position": [
+        4.1354,
+        0.04,
+        -0.6207
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 834.5371,
+        "y": 657.569,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-104",
+      "text": "복지협력팀",
+      "position": [
+        4.1786,
+        0.04,
+        -1.0519
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 838.8577,
+        "y": 700.6949,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-105",
+      "text": "(5)",
+      "position": [
+        4.1354,
+        0.04,
+        -1.1225
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 834.5371,
+        "y": 707.7482,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-106",
+      "text": "복지정책팀",
+      "position": [
+        4.1746,
+        0.04,
+        -1.717
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 838.4649,
+        "y": 767.1975,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-107",
+      "text": "(9)",
+      "position": [
+        4.1314,
+        0.04,
+        -1.7358
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 834.1443,
+        "y": 769.0783,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-108",
+      "text": "복지정책과",
+      "position": [
+        3.2248,
+        0.04,
+        0.1652
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 743.4764,
+        "y": 578.9751,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-109",
+      "text": "A동(구청사)_5F 평면도",
+      "position": [
+        -4.0889,
+        0.04,
+        5.955
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 12.1109,
+        "y": 0.0,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-110",
+      "text": "(7)",
+      "position": [
+        3.0611,
+        0.04,
+        -0.352
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 727.1104,
+        "y": 630.6993,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-111",
+      "text": "시장활성화팀",
+      "position": [
+        4.0653,
+        0.04,
+        3.0786
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 827.5324,
+        "y": 287.6403,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-112",
+      "text": "(5)",
+      "position": [
+        4.0228,
+        0.04,
+        2.9899
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 823.2773,
+        "y": 296.5073,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-113",
+      "text": "소상공인지원팀",
+      "position": [
+        4.0653,
+        0.04,
+        2.7071
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 827.5324,
+        "y": 324.7876,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-114",
+      "text": "(5)",
+      "position": [
+        4.0228,
+        0.04,
+        2.601
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 823.2773,
+        "y": 335.4012,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-115",
+      "text": "동물복지팀",
+      "position": [
+        4.0653,
+        0.04,
+        2.2786
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 827.5324,
+        "y": 367.6448,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-116",
+      "text": "(5)",
+      "position": [
+        4.0228,
+        0.04,
+        2.2342
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 823.2773,
+        "y": 372.0783,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-117",
+      "text": "재",
+      "position": [
+        2.6376,
+        0.04,
+        -1.0849
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 684.7551,
+        "y": 703.9865,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-118",
+      "text": "재",
+      "position": [
+        2.6376,
+        0.04,
+        -1.3596
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 684.7551,
+        "y": 731.4607,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-119",
+      "text": "재",
+      "position": [
+        3.1783,
+        0.04,
+        -0.9996
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 738.8285,
+        "y": 695.4553,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-120",
+      "text": "재",
+      "position": [
+        3.1783,
+        0.04,
+        -1.2844
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 738.8285,
+        "y": 723.9372,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-121",
+      "text": "W1200",
+      "position": [
+        3.0336,
+        0.04,
+        -1.0855
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 724.3609,
+        "y": 704.0536,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-122",
+      "text": "W1200",
+      "position": [
+        3.0336,
+        0.04,
+        -1.3569
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 724.3609,
+        "y": 731.192,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-123",
+      "text": "어르신 복지과",
+      "position": [
+        -2.959,
+        0.04,
+        2.0663
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 125.102,
+        "y": 388.8719,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-124",
+      "text": "복합기",
+      "position": [
+        -2.5328,
+        0.04,
+        -1.4624
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 167.7192,
+        "y": 741.7384,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-125",
+      "text": "세단기",
+      "position": [
+        -2.6081,
+        0.04,
+        -1.4624
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 160.1908,
+        "y": 741.7384,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-126",
+      "text": "생활보장팀",
+      "position": [
+        -3.2928,
+        0.04,
+        -2.3142
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 91.7153,
+        "y": 826.9154,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-127",
+      "text": "(7)",
+      "position": [
+        -3.3361,
+        0.04,
+        -2.3813
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 87.3947,
+        "y": 833.6328,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-128",
+      "text": "자활지원팀",
+      "position": [
+        -2.8758,
+        0.04,
+        -2.47
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 133.416,
+        "y": 842.4998,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-129",
+      "text": "(9)",
+      "position": [
+        -2.9184,
+        0.04,
+        -2.5405
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 129.1608,
+        "y": 849.5531,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-130",
+      "text": "의료보장팀",
+      "position": [
+        -2.4326,
+        0.04,
+        -2.4989
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 177.7352,
+        "y": 845.3883,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-131",
+      "text": "(11)",
+      "position": [
+        -2.4752,
+        0.04,
+        -2.5593
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 173.48,
+        "y": 851.434,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-132",
+      "text": "통합관리1팀",
+      "position": [
+        -2.0994,
+        0.04,
+        -2.4666
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 211.0564,
+        "y": 842.164,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-133",
+      "text": "(9)",
+      "position": [
+        -2.142,
+        0.04,
+        -2.5405
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 206.8013,
+        "y": 849.5531,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-134",
+      "text": "통합관리2팀",
+      "position": [
+        -1.7014,
+        0.04,
+        -2.3276
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 250.8587,
+        "y": 828.2589,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-135",
+      "text": "통합관리3팀",
+      "position": [
+        -1.3034,
+        0.04,
+        -2.4666
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 290.6609,
+        "y": 842.164,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-136",
+      "text": "(7)",
+      "position": [
+        -1.3459,
+        0.04,
+        -2.5412
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 286.4057,
+        "y": 849.6203,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-137",
+      "text": "장애인복지과",
+      "position": [
+        -2.8948,
+        0.04,
+        0.4494
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 131.5175,
+        "y": 550.5604,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-138",
+      "text": "복지지원과",
+      "position": [
+        -2.8634,
+        0.04,
+        4.1843
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 134.6598,
+        "y": 177.0714,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-139",
+      "text": "복합기",
+      "position": [
+        -2.3312,
+        0.04,
+        -0.3842
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 187.8821,
+        "y": 633.9237,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-140",
+      "text": "세단기",
+      "position": [
+        -2.4065,
+        0.04,
+        -0.3842
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 180.3538,
+        "y": 633.9237,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-141",
+      "text": "휴게실",
+      "position": [
+        -2.8889,
+        0.04,
+        2.9261
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 132.1067,
+        "y": 302.8888,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-142",
+      "text": "상담실",
+      "position": [
+        -2.2205,
+        0.04,
+        2.8435
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 198.9456,
+        "y": 311.1513,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-143",
+      "text": "휴게실",
+      "position": [
+        -3.4716,
+        0.04,
+        2.8374
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 73.8436,
+        "y": 311.7558,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-144",
+      "text": "복지지원과",
+      "position": [
+        -2.7574,
+        0.04,
+        3.0383
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 145.265,
+        "y": 291.6707,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-145",
+      "text": "어르신 복지과",
+      "position": [
+        -3.3478,
+        0.04,
+        3.0537
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 86.2163,
+        "y": 290.1257,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-146",
+      "text": "복지자원팀",
+      "position": [
+        -2.8614,
+        0.04,
+        4.7311
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 134.8562,
+        "y": 122.3915,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-147",
+      "text": "(7)",
+      "position": [
+        -2.904,
+        0.04,
+        4.6612
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 130.601,
+        "y": 129.3777,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-148",
+      "text": "통합조사1팀",
+      "position": [
+        -2.4536,
+        0.04,
+        4.7412
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 175.6403,
+        "y": 121.3839,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-149",
+      "text": "(9)",
+      "position": [
+        -2.4968,
+        0.04,
+        4.6612
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 171.3197,
+        "y": 129.3777,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-150",
+      "text": "주거복지팀",
+      "position": [
+        -3.1109,
+        0.04,
+        3.1653
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 109.9143,
+        "y": 278.9748,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-151",
+      "text": "(5)",
+      "position": [
+        -3.1541,
+        0.04,
+        3.0954
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 105.5937,
+        "y": 285.9609,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-152",
+      "text": "통합돌봄정책팀",
+      "position": [
+        -3.5626,
+        0.04,
+        3.5246
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 64.7441,
+        "y": 243.0365,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-153",
+      "text": "(6)",
+      "position": [
+        -3.6051,
+        0.04,
+        3.4178
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 60.4889,
+        "y": 253.7173,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-154",
+      "text": "통합조사2팀",
+      "position": [
+        -2.0294,
+        0.04,
+        4.7264
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 218.0611,
+        "y": 122.8618,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-155",
+      "text": "(9)",
+      "position": [
+        -2.0719,
+        0.04,
+        4.6458
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 213.8059,
+        "y": 130.9227,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-156",
+      "text": "복합기",
+      "position": [
+        -2.1538,
+        0.04,
+        3.8142
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 205.6229,
+        "y": 214.0844,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-157",
+      "text": "세단기",
+      "position": [
+        -2.2291,
+        0.04,
+        3.8142
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 198.0945,
+        "y": 214.0844,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-158",
+      "text": "복합기",
+      "position": [
+        -3.0591,
+        0.04,
+        1.8923
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 115.086,
+        "y": 406.2701,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-159",
+      "text": "세단기",
+      "position": [
+        -3.1344,
+        0.04,
+        1.8923
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 107.5576,
+        "y": 406.2701,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-160",
+      "text": "어르신복지행정팀",
+      "position": [
+        -3.0127,
+        0.04,
+        1.2515
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 119.7339,
+        "y": 470.3543,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-161",
+      "text": "(7)",
+      "position": [
+        -3.0552,
+        0.04,
+        1.1272
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 115.4788,
+        "y": 482.7816,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-162",
+      "text": "어르신시설관리팀",
+      "position": [
+        -2.6166,
+        0.04,
+        1.2555
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 159.3398,
+        "y": 469.9513,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-163",
+      "text": "(8)",
+      "position": [
+        -2.6592,
+        0.04,
+        1.1312
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 155.0846,
+        "y": 482.3785,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-164",
+      "text": "어르신생활지원팀",
+      "position": [
+        -2.4038,
+        0.04,
+        1.2515
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 180.6156,
+        "y": 470.3543,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-165",
+      "text": "(5)",
+      "position": [
+        -2.4464,
+        0.04,
+        1.1272
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 176.3604,
+        "y": 482.7816,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-166",
+      "text": "어르신일자리팀",
+      "position": [
+        -2.0438,
+        0.04,
+        1.2333
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 216.6209,
+        "y": 472.168,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-167",
+      "text": "(5)",
+      "position": [
+        -2.0863,
+        0.04,
+        1.1272
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 212.3657,
+        "y": 482.7816,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-168",
+      "text": "생활보장과",
+      "position": [
+        -2.7973,
+        0.04,
+        -0.4071
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 141.2717,
+        "y": 636.2076,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-169",
+      "text": "장애인복지과",
+      "position": [
+        -3.3707,
+        0.04,
+        -0.3896
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 83.9251,
+        "y": 634.4611,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-170",
+      "text": "휴게실",
+      "position": [
+        -2.923,
+        0.04,
+        -0.5078
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 128.7025,
+        "y": 646.2838,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-171",
+      "text": "휴게실",
+      "position": [
+        -3.5004,
+        0.04,
+        -0.5334
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 70.9631,
+        "y": 648.8364,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-172",
+      "text": "장애인정책팀",
+      "position": [
+        -2.9446,
+        0.04,
+        0.9351
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 126.5422,
+        "y": 501.9934,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-173",
+      "text": "(9)",
+      "position": [
+        -2.9819,
+        0.04,
+        0.8464
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 122.8108,
+        "y": 510.8604,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-174",
+      "text": "장애인지원팀",
+      "position": [
+        -2.5466,
+        0.04,
+        0.9351
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 166.3444,
+        "y": 501.9934,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-175",
+      "text": "(7)",
+      "position": [
+        -2.5839,
+        0.04,
+        0.8464
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 162.613,
+        "y": 510.8604,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-176",
+      "text": "장애인시설팀",
+      "position": [
+        -2.1309,
+        0.04,
+        0.9351
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 207.9142,
+        "y": 501.9934,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-177",
+      "text": "(7)",
+      "position": [
+        -2.1682,
+        0.04,
+        0.8464
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 204.1827,
+        "y": 510.8604,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-178",
+      "text": "출입구 위치이동",
+      "position": [
+        -1.8481,
+        0.04,
+        -0.0692
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 236.1947,
+        "y": 602.419,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-179",
+      "text": "생활보장과",
+      "position": [
+        -2.2703,
+        0.04,
+        -1.0996
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 193.9703,
+        "y": 705.4643,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-180",
+      "text": "(7)",
+      "position": [
+        -1.7446,
+        0.04,
+        -2.4082
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 246.538,
+        "y": 836.3198,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-181",
+      "text": "옷장",
+      "position": [
+        3.359,
+        0.04,
+        0.976
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 756.8966,
+        "y": 497.8958,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-182",
+      "text": "옷장",
+      "position": [
+        3.359,
+        0.04,
+        1.0278
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 756.8966,
+        "y": 492.7234,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-183",
+      "text": "돌봄복지팀",
+      "position": [
+        -3.1109,
+        0.04,
+        3.7416
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 109.9143,
+        "y": 221.3393,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-184",
+      "text": "(5)",
+      "position": [
+        -3.1541,
+        0.04,
+        3.6717
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 105.5937,
+        "y": 228.3254,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-185",
+      "text": "6단",
+      "position": [
+        -1.8422,
+        0.04,
+        4.2374
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 236.7839,
+        "y": 171.7646,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-186",
+      "text": "6단",
+      "position": [
+        -1.8422,
+        0.04,
+        4.3401
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 236.7839,
+        "y": 161.487,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-187",
+      "text": "6단",
+      "position": [
+        -1.8422,
+        0.04,
+        3.927
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 236.7839,
+        "y": 202.7992,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-188",
+      "text": "6단",
+      "position": [
+        -1.8422,
+        0.04,
+        4.0305
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 236.7839,
+        "y": 192.4543,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-189",
+      "text": "6단",
+      "position": [
+        -1.8422,
+        0.04,
+        4.1339
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 236.7839,
+        "y": 182.1095,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-190",
+      "text": "6단",
+      "position": [
+        -1.8422,
+        0.04,
+        4.5598
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 236.7839,
+        "y": 139.521,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-191",
+      "text": "복합기",
+      "position": [
+        2.6984,
+        0.04,
+        0.5495
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 690.8433,
+        "y": 540.5514,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-192",
+      "text": "세단기",
+      "position": [
+        2.7744,
+        0.04,
+        0.5495
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 698.4371,
+        "y": 540.5514,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-193",
+      "text": "6단",
+      "position": [
+        -2.3011,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 190.8935,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-194",
+      "text": "6단",
+      "position": [
+        -1.9986,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 221.1379,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-195",
+      "text": "6단",
+      "position": [
+        -2.2003,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 200.975,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-196",
+      "text": "6단",
+      "position": [
+        -2.0994,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 211.0564,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-197",
+      "text": "6단",
+      "position": [
+        -1.8978,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 231.2194,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-198",
+      "text": "6단",
+      "position": [
+        -2.9557,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 125.4293,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-199",
+      "text": "6단",
+      "position": [
+        -2.6533,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 155.6738,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-200",
+      "text": "6단",
+      "position": [
+        -2.8549,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 135.5108,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-201",
+      "text": "6단",
+      "position": [
+        -2.7541,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 145.5923,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-202",
+      "text": "6단",
+      "position": [
+        -2.5531,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 165.6898,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-203",
+      "text": "6단",
+      "position": [
+        -3.1573,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 105.2664,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-204",
+      "text": "6단",
+      "position": [
+        -3.0565,
+        0.04,
+        -0.4205
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 115.3478,
+        "y": 637.5511,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-205",
+      "text": "6단",
+      "position": [
+        -1.8605,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 234.9509,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-206",
+      "text": "6단",
+      "position": [
+        -2.1623,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 204.7719,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-207",
+      "text": "6단",
+      "position": [
+        -1.9613,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 224.8694,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-208",
+      "text": "6단",
+      "position": [
+        -2.0615,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 214.8534,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-209",
+      "text": "6단",
+      "position": [
+        -2.2631,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 194.6904,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-210",
+      "text": "6단",
+      "position": [
+        -2.3639,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 184.6089,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-211",
+      "text": "6단",
+      "position": [
+        -2.6664,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 154.3645,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-212",
+      "text": "6단",
+      "position": [
+        -2.4647,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 174.5274,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-213",
+      "text": "6단",
+      "position": [
+        -2.5655,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 164.446,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-214",
+      "text": "6단",
+      "position": [
+        -2.7672,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 144.283,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-215",
+      "text": "6단",
+      "position": [
+        -2.868,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 134.2015,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-216",
+      "text": "6단",
+      "position": [
+        -2.9688,
+        0.04,
+        2.4317
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 124.12,
+        "y": 352.3291,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-217",
+      "text": "옷장",
+      "position": [
+        -3.6503,
+        0.04,
+        4.9111
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 55.9719,
+        "y": 104.3888,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-218",
+      "text": "옷장",
+      "position": [
+        -3.1351,
+        0.04,
+        4.8372
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 107.4921,
+        "y": 111.778,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-219",
+      "text": "옷장",
+      "position": [
+        -2.7371,
+        0.04,
+        4.7808
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 147.2944,
+        "y": 117.4206,
+        "page": 5
+      }
+    },
+    {
+      "id": "label-05-220",
+      "text": "옷장",
+      "position": [
+        -2.3279,
+        0.04,
+        4.719
+      ],
+      "source": "pdf-text",
+      "pdf": {
+        "x": 188.2095,
+        "y": 123.6007,
+        "page": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "page": 16,
+  "labelCount": 132,
+  "labels": [
+    {
+      "text": "EL+13,800",
+      "rawX": 9999.0,
+      "rawY": 8530.0,
+      "fontSize": 128.463,
+      "page": 16
+    },
+    {
+      "text": "완",
+      "rawX": 2271.0,
+      "rawY": 12941.0,
+      "fontSize": 128.463,
+      "page": 16
+    },
+    {
+      "text": "접견실",
+      "rawX": 6475.0,
+      "rawY": 9337.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "비서실",
+      "rawX": 10327.0,
+      "rawY": 4635.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "홍보자료실",
+      "rawX": 6475.0,
+      "rawY": 8280.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#7",
+      "rawX": 3483.0,
+      "rawY": 12688.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#1",
+      "rawX": 8410.0,
+      "rawY": 15351.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#2",
+      "rawX": 7265.0,
+      "rawY": 15351.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#3",
+      "rawX": 6157.0,
+      "rawY": 15351.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#4",
+      "rawX": 5012.0,
+      "rawY": 15351.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#5",
+      "rawX": 3904.0,
+      "rawY": 15351.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#6",
+      "rawX": 2759.0,
+      "rawY": 15351.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#8",
+      "rawX": 3207.0,
+      "rawY": 11606.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#9",
+      "rawX": 3483.0,
+      "rawY": 10514.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#10",
+      "rawX": 3207.0,
+      "rawY": 9456.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#11",
+      "rawX": 3483.0,
+      "rawY": 8335.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#12",
+      "rawX": 3170.0,
+      "rawY": 7193.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#13",
+      "rawX": 3483.0,
+      "rawY": 6101.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#15",
+      "rawX": 6180.0,
+      "rawY": 5238.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#16",
+      "rawX": 7362.0,
+      "rawY": 5238.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#17",
+      "rawX": 8414.0,
+      "rawY": 5238.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "소회의실#2",
+      "rawX": 12199.0,
+      "rawY": 5293.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "소회의실#1",
+      "rawX": 12199.0,
+      "rawY": 7025.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의정자료실",
+      "rawX": 8649.0,
+      "rawY": 11864.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "ELEV 홀",
+      "rawX": 10316.0,
+      "rawY": 8211.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "의원실#14",
+      "rawX": 3170.0,
+      "rawY": 4884.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "샤워(남)",
+      "rawX": 5995.0,
+      "rawY": 10704.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "샤워(여)",
+      "rawX": 5995.0,
+      "rawY": 12184.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "탈의(남)",
+      "rawX": 6808.0,
+      "rawY": 10732.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "탈의(여)",
+      "rawX": 6809.0,
+      "rawY": 12178.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "화장실",
+      "rawX": 12421.0,
+      "rawY": 11410.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "(",
+      "rawX": 12100.0,
+      "rawY": 11218.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "여",
+      "rawX": 12100.0,
+      "rawY": 11138.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": ")",
+      "rawX": 12100.0,
+      "rawY": 10778.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "화장실",
+      "rawX": 12421.0,
+      "rawY": 12790.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "(",
+      "rawX": 12090.0,
+      "rawY": 12539.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "남",
+      "rawX": 12090.0,
+      "rawY": 12465.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": ")",
+      "rawX": 12090.0,
+      "rawY": 12099.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "재",
+      "rawX": 10730.0,
+      "rawY": 12366.0,
+      "fontSize": 102.77,
+      "page": 16
+    },
+    {
+      "text": "재",
+      "rawX": 10730.0,
+      "rawY": 10805.0,
+      "fontSize": 102.77,
+      "page": 16
+    },
+    {
+      "text": "재",
+      "rawX": 5405.0,
+      "rawY": 8647.0,
+      "fontSize": 102.77,
+      "page": 16
+    },
+    {
+      "text": "재",
+      "rawX": 5405.0,
+      "rawY": 8024.0,
+      "fontSize": 102.77,
+      "page": 16
+    },
+    {
+      "text": "재",
+      "rawX": 11011.0,
+      "rawY": 4502.0,
+      "fontSize": 102.77,
+      "page": 16
+    },
+    {
+      "text": "복합기",
+      "rawX": 11328.0,
+      "rawY": 13565.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "세단기",
+      "rawX": 11107.0,
+      "rawY": 13565.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2523.0,
+      "rawY": 12543.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2721.0,
+      "rawY": 11757.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2261.0,
+      "rawY": 11495.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2540.0,
+      "rawY": 11497.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "1500*800",
+      "rawX": 3307.0,
+      "rawY": 8835.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 9118.0,
+      "rawY": 3688.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 9117.0,
+      "rawY": 4262.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2425.0,
+      "rawY": 11757.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2836.0,
+      "rawY": 11497.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2261.0,
+      "rawY": 10387.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2540.0,
+      "rawY": 10389.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2836.0,
+      "rawY": 10389.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2409.0,
+      "rawY": 8435.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2599.0,
+      "rawY": 9281.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2895.0,
+      "rawY": 9281.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2261.0,
+      "rawY": 8171.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2540.0,
+      "rawY": 8173.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2836.0,
+      "rawY": 8173.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2540.0,
+      "rawY": 7065.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2836.0,
+      "rawY": 7065.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2409.0,
+      "rawY": 6219.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2261.0,
+      "rawY": 5955.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2540.0,
+      "rawY": 5957.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2836.0,
+      "rawY": 5957.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 2523.0,
+      "rawY": 4847.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 2802.0,
+      "rawY": 4849.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 3098.0,
+      "rawY": 4849.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 5730.0,
+      "rawY": 3945.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 5728.0,
+      "rawY": 4224.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 5728.0,
+      "rawY": 4519.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 6902.0,
+      "rawY": 3682.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 6901.0,
+      "rawY": 3962.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 6901.0,
+      "rawY": 4257.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 8010.0,
+      "rawY": 3682.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 8009.0,
+      "rawY": 3962.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 8009.0,
+      "rawY": 4257.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 3315.0,
+      "rawY": 15878.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 3316.0,
+      "rawY": 15599.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 3316.0,
+      "rawY": 15304.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 4423.0,
+      "rawY": 15878.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 4424.0,
+      "rawY": 15599.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 4424.0,
+      "rawY": 15304.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 5531.0,
+      "rawY": 15878.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 5532.0,
+      "rawY": 15599.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 5532.0,
+      "rawY": 15304.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 7747.0,
+      "rawY": 15878.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 7748.0,
+      "rawY": 15599.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 7748.0,
+      "rawY": 15304.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 8855.0,
+      "rawY": 15878.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 8856.0,
+      "rawY": 15599.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 8856.0,
+      "rawY": 15304.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "옷장",
+      "rawX": 6639.0,
+      "rawY": 15878.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 6640.0,
+      "rawY": 15599.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 6640.0,
+      "rawY": 15304.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "C동(구의회)_4F 평면도",
+      "rawX": 579.0,
+      "rawY": 16321.0,
+      "fontSize": 616.624,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 4113.0,
+      "rawY": 12295.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3910.0,
+      "rawY": 11187.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3910.0,
+      "rawY": 10079.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3910.0,
+      "rawY": 8971.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3910.0,
+      "rawY": 7863.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3910.0,
+      "rawY": 6755.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3910.0,
+      "rawY": 5647.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3910.0,
+      "rawY": 4286.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 6103.0,
+      "rawY": 5312.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 7211.0,
+      "rawY": 5312.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 8319.0,
+      "rawY": 5312.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 2249.0,
+      "rawY": 14499.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 3499.0,
+      "rawY": 14499.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 4607.0,
+      "rawY": 14499.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 5715.0,
+      "rawY": 14499.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 6823.0,
+      "rawY": 14499.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "1800*900",
+      "rawX": 7931.0,
+      "rawY": 14499.0,
+      "fontSize": 66.8,
+      "page": 16
+    },
+    {
+      "text": "정책지원팀",
+      "rawX": 11219.0,
+      "rawY": 15549.0,
+      "fontSize": 321.158,
+      "page": 16
+    },
+    {
+      "text": "5단",
+      "rawX": 9117.0,
+      "rawY": 3967.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "냉",
+      "rawX": 9394.0,
+      "rawY": 4631.0,
+      "fontSize": 128.463,
+      "page": 16
+    },
+    {
+      "text": "2300*300",
+      "rawX": 7426.0,
+      "rawY": 11726.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "2300*300",
+      "rawX": 7426.0,
+      "rawY": 10877.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "2300*300",
+      "rawX": 9330.0,
+      "rawY": 12608.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "2300*300",
+      "rawX": 8480.0,
+      "rawY": 12608.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "2300*300",
+      "rawX": 7966.0,
+      "rawY": 9660.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "2300*300",
+      "rawX": 8815.0,
+      "rawY": 9660.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "1800*700",
+      "rawX": 9369.0,
+      "rawY": 11255.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "1600*700",
+      "rawX": 9626.0,
+      "rawY": 12304.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "1900*300",
+      "rawX": 8412.0,
+      "rawY": 11759.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "1900*300",
+      "rawX": 8412.0,
+      "rawY": 11648.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "1900*300",
+      "rawX": 8412.0,
+      "rawY": 10983.0,
+      "fontSize": 77.078,
+      "page": 16
+    },
+    {
+      "text": "1900*300",
+      "rawX": 8412.0,
+      "rawY": 10872.0,
+      "fontSize": 77.078,
+      "page": 16
+    }
+  ]
+}

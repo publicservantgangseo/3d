@@ -1,0 +1,1518 @@
+{
+  "page": 2,
+  "labelCount": 216,
+  "labels": [
+    {
+      "text": "공조실#1",
+      "rawX": 11050.0,
+      "rawY": 6468.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "휴게실",
+      "rawX": 8905.0,
+      "rawY": 6622.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "홀/복도",
+      "rawX": 7010.0,
+      "rawY": 8026.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "공조실#2",
+      "rawX": 3688.0,
+      "rawY": 5715.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "번호판 창고",
+      "rawX": 1576.0,
+      "rawY": 10349.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "휴게/서고",
+      "rawX": 3041.0,
+      "rawY": 10267.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "우리은행",
+      "rawX": 8265.0,
+      "rawY": 15736.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "민원실#2",
+      "rawX": 3840.0,
+      "rawY": 7379.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "민원접수라운지#1",
+      "rawX": 4204.0,
+      "rawY": 11305.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "복도#1",
+      "rawX": 9748.0,
+      "rawY": 10194.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "민원접수라운지#2",
+      "rawX": 7068.0,
+      "rawY": 14258.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "서고",
+      "rawX": 11513.0,
+      "rawY": 12266.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "지방소득세과",
+      "rawX": 10878.0,
+      "rawY": 12578.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "휴게실",
+      "rawX": 10677.0,
+      "rawY": 12337.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "민원실#1",
+      "rawX": 1455.0,
+      "rawY": 13055.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "세무관리과",
+      "rawX": 11699.0,
+      "rawY": 7971.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "서고",
+      "rawX": 11499.0,
+      "rawY": 7718.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "세무관리과",
+      "rawX": 10759.0,
+      "rawY": 8001.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "휴게실",
+      "rawX": 10558.0,
+      "rawY": 7834.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "서고",
+      "rawX": 987.0,
+      "rawY": 14570.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 7425.0,
+      "rawY": 4906.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 10018.0,
+      "rawY": 8837.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 2804.0,
+      "rawY": 10423.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 2473.0,
+      "rawY": 10423.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 1276.0,
+      "rawY": 14829.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 4270.0,
+      "rawY": 14313.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 5253.0,
+      "rawY": 14313.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 8583.0,
+      "rawY": 15744.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 11089.0,
+      "rawY": 7863.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재",
+      "rawX": 3602.0,
+      "rawY": 10509.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "E",
+      "rawX": 4742.0,
+      "rawY": 4818.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "E",
+      "rawX": 5300.0,
+      "rawY": 4823.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "E",
+      "rawX": 2916.0,
+      "rawY": 4818.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "C",
+      "rawX": 842.0,
+      "rawY": 9578.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "D",
+      "rawX": 842.0,
+      "rawY": 10277.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "C",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "C",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "C",
+      "rawX": 7596.0,
+      "rawY": 15963.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "Y",
+      "rawX": 8580.0,
+      "rawY": 15889.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "I",
+      "rawX": 10753.0,
+      "rawY": 16182.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "D",
+      "rawX": 12117.0,
+      "rawY": 12573.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "D",
+      "rawX": 12117.0,
+      "rawY": 11765.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "D",
+      "rawX": 12122.0,
+      "rawY": 8077.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "E",
+      "rawX": 12117.0,
+      "rawY": 7104.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "1",
+      "rawX": 1955.0,
+      "rawY": 10837.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "2",
+      "rawX": 2225.0,
+      "rawY": 10837.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "3",
+      "rawX": 2494.0,
+      "rawY": 10837.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "4",
+      "rawX": 2763.0,
+      "rawY": 10837.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "5",
+      "rawX": 3033.0,
+      "rawY": 10837.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "6",
+      "rawX": 3302.0,
+      "rawY": 10837.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "자동차세팀",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "민원대",
+      "rawX": 3092.0,
+      "rawY": 14503.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(8)",
+      "rawX": 3026.0,
+      "rawY": 14453.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "지방소득세과",
+      "rawX": 3232.0,
+      "rawY": 14583.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "자동차 등록 민원실",
+      "rawX": 1887.0,
+      "rawY": 13390.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "민원실#1",
+      "rawX": 1455.0,
+      "rawY": 13055.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4086.0,
+      "rawY": 6133.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4240.0,
+      "rawY": 6133.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4394.0,
+      "rawY": 6133.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1939.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1631.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1785.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 3150.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 3304.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "복합기",
+      "rawX": 1418.0,
+      "rawY": 14524.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "세단기",
+      "rawX": 1418.0,
+      "rawY": 14409.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "복합기",
+      "rawX": 2043.0,
+      "rawY": 10384.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "세단기",
+      "rawX": 2158.0,
+      "rawY": 10384.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1477.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "복합기",
+      "rawX": 2764.0,
+      "rawY": 6845.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "세단기",
+      "rawX": 2764.0,
+      "rawY": 6960.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "지방소득세팀",
+      "rawX": 955.0,
+      "rawY": 13402.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4548.0,
+      "rawY": 6133.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "공간분리선",
+      "rawX": 2468.0,
+      "rawY": 14689.0,
+      "fontSize": 80.292,
+      "page": 2
+    },
+    {
+      "text": "자동차등록팀",
+      "rawX": 955.0,
+      "rawY": 10808.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 3932.0,
+      "rawY": 6133.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "A동(구청사)_2F 평면도",
+      "rawX": 185.0,
+      "rawY": 17730.0,
+      "fontSize": 481.757,
+      "page": 2
+    },
+    {
+      "text": "(3)",
+      "rawX": 884.0,
+      "rawY": 10674.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "복합기",
+      "rawX": 10523.0,
+      "rawY": 13597.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "세단기",
+      "rawX": 10407.0,
+      "rawY": 13597.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "재산세과",
+      "rawX": 1173.0,
+      "rawY": 15859.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "휴게실",
+      "rawX": 973.0,
+      "rawY": 15742.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "지방소득세과",
+      "rawX": 11703.0,
+      "rawY": 12598.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "복합기",
+      "rawX": 5941.0,
+      "rawY": 14443.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "세단기",
+      "rawX": 5826.0,
+      "rawY": 14443.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "재산1팀",
+      "rawX": 7121.0,
+      "rawY": 15967.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(10)",
+      "rawX": 7049.0,
+      "rawY": 15914.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재산2팀",
+      "rawX": 6009.0,
+      "rawY": 15863.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(8)",
+      "rawX": 5937.0,
+      "rawY": 15796.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "법인관리팀",
+      "rawX": 3229.0,
+      "rawY": 15956.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(6)",
+      "rawX": 3157.0,
+      "rawY": 15850.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "법인조사팀",
+      "rawX": 2609.0,
+      "rawY": 15956.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(7)",
+      "rawX": 2537.0,
+      "rawY": 15850.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "주택가격평가팀",
+      "rawX": 4319.0,
+      "rawY": 16001.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(8)",
+      "rawX": 4248.0,
+      "rawY": 15841.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "지방소득세과",
+      "rawX": 11364.0,
+      "rawY": 14492.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "지방소득세1팀",
+      "rawX": 12120.0,
+      "rawY": 14285.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(7)",
+      "rawX": 12054.0,
+      "rawY": 14138.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "주민세팀",
+      "rawX": 12120.0,
+      "rawY": 15255.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(9)",
+      "rawX": 12054.0,
+      "rawY": 15177.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "지방소득세2팀",
+      "rawX": 12120.0,
+      "rawY": 13646.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "자동차세팀",
+      "rawX": 12120.0,
+      "rawY": 12966.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(6)",
+      "rawX": 12054.0,
+      "rawY": 12849.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(7)",
+      "rawX": 12054.0,
+      "rawY": 13493.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "재산세과",
+      "rawX": 5085.0,
+      "rawY": 15859.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "세단기",
+      "rawX": 2151.0,
+      "rawY": 10236.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "세입총괄팀",
+      "rawX": 12091.0,
+      "rawY": 11564.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "체납차량관리팀",
+      "rawX": 12091.0,
+      "rawY": 8452.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "세금징수1팀",
+      "rawX": 12091.0,
+      "rawY": 10955.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "세금징수2팀",
+      "rawX": 12091.0,
+      "rawY": 10395.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "세금징수3팀",
+      "rawX": 12091.0,
+      "rawY": 9842.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "세외수입1팀",
+      "rawX": 12091.0,
+      "rawY": 9507.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "세외수입2팀",
+      "rawX": 12091.0,
+      "rawY": 8974.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(7)",
+      "rawX": 12025.0,
+      "rawY": 11408.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(7)",
+      "rawX": 12025.0,
+      "rawY": 10852.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(5)",
+      "rawX": 12025.0,
+      "rawY": 10276.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(5)",
+      "rawX": 12025.0,
+      "rawY": 9730.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "세단기",
+      "rawX": 11227.0,
+      "rawY": 7725.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "(4)",
+      "rawX": 12025.0,
+      "rawY": 9389.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(4)",
+      "rawX": 12025.0,
+      "rawY": 8873.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "(5)",
+      "rawX": 12032.0,
+      "rawY": 8308.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "W1400",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "W1400",
+      "rawX": 11824.0,
+      "rawY": 9904.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "W1400",
+      "rawX": 11824.0,
+      "rawY": 9366.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "W1400",
+      "rawX": 11824.0,
+      "rawY": 9085.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "W1400",
+      "rawX": 11824.0,
+      "rawY": 8538.0,
+      "fontSize": 53.528,
+      "page": 2
+    },
+    {
+      "text": "복합기",
+      "rawX": 10200.0,
+      "rawY": 9288.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "세무관리과",
+      "rawX": 11364.0,
+      "rawY": 10434.0,
+      "fontSize": 167.276,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1323.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1016.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1169.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 862.0,
+      "rawY": 10364.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 3778.0,
+      "rawY": 6133.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 3624.0,
+      "rawY": 6133.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 9392.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 9546.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 9699.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 9853.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 10007.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 10161.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 10315.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 8117.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 8271.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10180.0,
+      "rawY": 8425.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 10723.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 10877.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 11031.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 11184.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 11338.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 11492.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 11646.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 11800.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "5단",
+      "rawX": 11954.0,
+      "rawY": 8032.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10884.0,
+      "rawY": 9105.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "1000*600",
+      "rawX": 10932.0,
+      "rawY": 9050.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10884.0,
+      "rawY": 11236.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "1000*600",
+      "rawX": 10932.0,
+      "rawY": 11181.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10884.0,
+      "rawY": 10628.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "1000*600",
+      "rawX": 10932.0,
+      "rawY": 10574.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10615.0,
+      "rawY": 8493.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "1000*600",
+      "rawX": 10662.0,
+      "rawY": 8438.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10611.0,
+      "rawY": 9813.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "1000*600",
+      "rawX": 10666.0,
+      "rawY": 9861.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10545.0,
+      "rawY": 10106.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "1000*600",
+      "rawX": 10491.0,
+      "rawY": 10058.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4918.0,
+      "rawY": 15253.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4918.0,
+      "rawY": 15407.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4918.0,
+      "rawY": 15561.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4918.0,
+      "rawY": 14791.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4918.0,
+      "rawY": 14945.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4918.0,
+      "rawY": 15099.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4813.0,
+      "rawY": 15630.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4659.0,
+      "rawY": 15630.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4505.0,
+      "rawY": 15630.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4513.0,
+      "rawY": 15503.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4513.0,
+      "rawY": 15115.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4513.0,
+      "rawY": 14961.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4513.0,
+      "rawY": 14807.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 4918.0,
+      "rawY": 14638.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 6002.0,
+      "rawY": 14390.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 6195.0,
+      "rawY": 14390.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 7155.0,
+      "rawY": 14390.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 7347.0,
+      "rawY": 14390.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 7539.0,
+      "rawY": 14390.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 3018.0,
+      "rawY": 14948.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "4단",
+      "rawX": 1956.0,
+      "rawY": 15932.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "4단",
+      "rawX": 1956.0,
+      "rawY": 15778.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10161.0,
+      "rawY": 12945.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10161.0,
+      "rawY": 13099.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10161.0,
+      "rawY": 13253.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10161.0,
+      "rawY": 13407.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10161.0,
+      "rawY": 12791.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10161.0,
+      "rawY": 13561.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 11413.0,
+      "rawY": 12525.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 11259.0,
+      "rawY": 12525.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 11567.0,
+      "rawY": 12525.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 10161.0,
+      "rawY": 12637.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10950.0,
+      "rawY": 12866.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 11811.0,
+      "rawY": 14772.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "필경대",
+      "rawX": 10522.0,
+      "rawY": 13113.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 11106.0,
+      "rawY": 12525.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "옷장",
+      "rawX": 12122.0,
+      "rawY": 16166.0,
+      "fontSize": 26.764,
+      "page": 2
+    },
+    {
+      "text": "옷장",
+      "rawX": 10171.0,
+      "rawY": 11604.0,
+      "fontSize": 26.764,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10950.0,
+      "rawY": 13020.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 11052.0,
+      "rawY": 11721.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 11052.0,
+      "rawY": 7210.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10898.0,
+      "rawY": 7210.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "3단",
+      "rawX": 10744.0,
+      "rawY": 7210.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1880.0,
+      "rawY": 15875.0,
+      "fontSize": 40.146,
+      "page": 2
+    },
+    {
+      "text": "6단",
+      "rawX": 1880.0,
+      "rawY": 15721.0,
+      "fontSize": 40.146,
+      "page": 2
+    }
+  ]
+}

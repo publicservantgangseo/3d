@@ -1,0 +1,1273 @@
+{
+  "page": 10,
+  "labelCount": 181,
+  "labels": [
+    {
+      "text": "EL+5,400",
+      "rawX": 7192.0,
+      "rawY": 10013.0,
+      "fontSize": 102.08,
+      "page": 10
+    },
+    {
+      "text": "1",
+      "rawX": 11111.0,
+      "rawY": 15040.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "베드 1.5x2.3(커튼포함)",
+      "rawX": 11344.0,
+      "rawY": 14901.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "시술용(700X2100)",
+      "rawX": 11126.0,
+      "rawY": 15198.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "Bedside Table",
+      "rawX": 11451.0,
+      "rawY": 15002.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "2",
+      "rawX": 11111.0,
+      "rawY": 14599.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "베드 1.5x2.3(커튼포함)",
+      "rawX": 11344.0,
+      "rawY": 14461.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "시술용(700X2100)",
+      "rawX": 11126.0,
+      "rawY": 14757.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "Bedside Table",
+      "rawX": 11451.0,
+      "rawY": 14562.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "3",
+      "rawX": 11111.0,
+      "rawY": 14159.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "베드 1.5x2.3(커튼포함)",
+      "rawX": 11344.0,
+      "rawY": 14021.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "시술용(700X2100)",
+      "rawX": 11126.0,
+      "rawY": 14317.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "Bedside Table",
+      "rawX": 11451.0,
+      "rawY": 14122.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "4",
+      "rawX": 11111.0,
+      "rawY": 13719.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "베드 1.5x2.3(커튼포함)",
+      "rawX": 11344.0,
+      "rawY": 13581.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "시술용(700X2100)",
+      "rawX": 11126.0,
+      "rawY": 13877.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "Bedside Table",
+      "rawX": 11451.0,
+      "rawY": 13682.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "5",
+      "rawX": 11111.0,
+      "rawY": 13279.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "베드 1.5x2.3(커튼포함)",
+      "rawX": 11344.0,
+      "rawY": 13140.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "시술용(700X2100)",
+      "rawX": 11126.0,
+      "rawY": 13437.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "Bedside Table",
+      "rawX": 11451.0,
+      "rawY": 13241.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "6",
+      "rawX": 11111.0,
+      "rawY": 12657.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "베드 1.5x2.3(커튼포함)",
+      "rawX": 11344.0,
+      "rawY": 12504.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "시술용(700X2100)",
+      "rawX": 11126.0,
+      "rawY": 12800.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "Bedside Table",
+      "rawX": 11451.0,
+      "rawY": 12604.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "ELEV 홀",
+      "rawX": 7975.0,
+      "rawY": 10298.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "로비",
+      "rawX": 2823.0,
+      "rawY": 10166.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "사무실#1",
+      "rawX": 2314.0,
+      "rawY": 14162.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "민원대기공간",
+      "rawX": 5216.0,
+      "rawY": 11847.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "연명의료",
+      "rawX": 7172.0,
+      "rawY": 14273.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "상담실",
+      "rawX": 6866.0,
+      "rawY": 14128.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "탕비실",
+      "rawX": 6876.0,
+      "rawY": 15376.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "사무실#1",
+      "rawX": 9148.0,
+      "rawY": 15388.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "진료실#1",
+      "rawX": 10223.0,
+      "rawY": 15250.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "민원대기",
+      "rawX": 9534.0,
+      "rawY": 13922.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "#1",
+      "rawX": 9290.0,
+      "rawY": 13553.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "한의진료실",
+      "rawX": 11013.0,
+      "rawY": 14438.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "조제실",
+      "rawX": 9921.0,
+      "rawY": 12987.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "창고",
+      "rawX": 11167.0,
+      "rawY": 12279.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "#2",
+      "rawX": 10923.0,
+      "rawY": 12146.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "운동처방실",
+      "rawX": 10518.0,
+      "rawY": 10961.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "운동상담실",
+      "rawX": 10457.0,
+      "rawY": 8869.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "창고#1",
+      "rawX": 11114.0,
+      "rawY": 7236.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "물리치료실",
+      "rawX": 10281.0,
+      "rawY": 6799.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "세탁실",
+      "rawX": 5465.0,
+      "rawY": 3393.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "탕비실",
+      "rawX": 4666.0,
+      "rawY": 3410.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "수유실",
+      "rawX": 5133.0,
+      "rawY": 3393.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "직원휴게실",
+      "rawX": 6129.0,
+      "rawY": 14252.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "아동좌식놀이터",
+      "rawX": 223.0,
+      "rawY": 9882.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "프로그램실#1",
+      "rawX": 1397.0,
+      "rawY": 9562.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "프로그램실#2",
+      "rawX": 1397.0,
+      "rawY": 7182.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "센터장실",
+      "rawX": 3055.0,
+      "rawY": 8798.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "상담실#1",
+      "rawX": 3055.0,
+      "rawY": 7386.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "상담실#2",
+      "rawX": 3055.0,
+      "rawY": 6193.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "창고",
+      "rawX": 8490.0,
+      "rawY": 9049.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 6297.0,
+      "rawY": 6934.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 8811.0,
+      "rawY": 6934.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 4219.0,
+      "rawY": 5230.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 4219.0,
+      "rawY": 6198.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 8784.0,
+      "rawY": 9377.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 10600.0,
+      "rawY": 6407.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 9560.0,
+      "rawY": 9888.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 8914.0,
+      "rawY": 13937.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 8448.0,
+      "rawY": 12805.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 6883.0,
+      "rawY": 12805.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 10572.0,
+      "rawY": 12545.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 2220.0,
+      "rawY": 10680.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 2454.0,
+      "rawY": 7746.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 2454.0,
+      "rawY": 6502.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 2454.0,
+      "rawY": 5226.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 2143.0,
+      "rawY": 5226.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "재",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "정신센터",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "침대",
+      "rawX": 10462.0,
+      "rawY": 15263.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "1900x 600",
+      "rawX": 10459.0,
+      "rawY": 15287.0,
+      "fontSize": 24.499,
+      "page": 10
+    },
+    {
+      "text": "옷장",
+      "rawX": 9638.0,
+      "rawY": 15369.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "1인",
+      "rawX": 9651.0,
+      "rawY": 15305.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 8772.0,
+      "rawY": 13229.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 8772.0,
+      "rawY": 13464.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "1팀",
+      "rawX": 5141.0,
+      "rawY": 15301.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "(5)",
+      "rawX": 5040.0,
+      "rawY": 15292.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "2팀",
+      "rawX": 4240.0,
+      "rawY": 15368.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "(5)",
+      "rawX": 4140.0,
+      "rawY": 15358.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "4팀",
+      "rawX": 1199.0,
+      "rawY": 11333.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "(7)",
+      "rawX": 1098.0,
+      "rawY": 11324.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 6181.0,
+      "rawY": 12974.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 5946.0,
+      "rawY": 12974.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 6416.0,
+      "rawY": 12974.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 10939.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 11174.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 2732.0,
+      "rawY": 10780.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 2966.0,
+      "rawY": 10780.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3201.0,
+      "rawY": 10780.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3436.0,
+      "rawY": 10780.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "복합기",
+      "rawX": 4070.0,
+      "rawY": 13002.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "세단기",
+      "rawX": 3894.0,
+      "rawY": 13002.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 9576.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 9341.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 9106.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 8872.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 8637.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 8402.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 8167.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 7933.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 7698.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 7431.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 7197.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 6962.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 6727.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 6492.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 6258.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 6023.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 5788.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 1966.0,
+      "rawY": 5553.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 6634.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 6399.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 5603.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 5369.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 7103.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 6868.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 6073.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 3630.0,
+      "rawY": 5838.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 7598.0,
+      "rawY": 15367.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 7598.0,
+      "rawY": 15133.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "1600*800",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "H1554",
+      "rawX": 4749.0,
+      "rawY": 5456.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "H1554",
+      "rawX": 4749.0,
+      "rawY": 5221.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 4811.0,
+      "rawY": 6710.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 5046.0,
+      "rawY": 6710.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 4576.0,
+      "rawY": 6710.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "2인 옷장",
+      "rawX": 8840.0,
+      "rawY": 15052.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 8772.0,
+      "rawY": 14733.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 8772.0,
+      "rawY": 14968.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "1200*800",
+      "rawX": 9342.0,
+      "rawY": 14764.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "1200*800",
+      "rawX": 9342.0,
+      "rawY": 15116.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "2인 옷장",
+      "rawX": 11403.0,
+      "rawY": 8919.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "2인 옷장",
+      "rawX": 11227.0,
+      "rawY": 8919.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "2인 옷장",
+      "rawX": 7908.0,
+      "rawY": 12981.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "2인 옷장",
+      "rawX": 7732.0,
+      "rawY": 12981.0,
+      "fontSize": 40.832,
+      "page": 10
+    },
+    {
+      "text": "1500*800",
+      "rawX": 7112.0,
+      "rawY": 13879.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "(3)",
+      "rawX": 1931.0,
+      "rawY": 15118.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 11409.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 11643.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 11878.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 12113.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 12348.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 3683.0,
+      "rawY": 12582.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 2705.0,
+      "rawY": 8377.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 2705.0,
+      "rawY": 8611.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 2705.0,
+      "rawY": 8846.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "3단",
+      "rawX": 2705.0,
+      "rawY": 8142.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "1400*800",
+      "rawX": 9667.0,
+      "rawY": 13721.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "B동(보건소)_2F 평면도",
+      "rawX": 136.0,
+      "rawY": 17588.0,
+      "fontSize": 489.986,
+      "page": 10
+    },
+    {
+      "text": "2팀",
+      "rawX": 10632.0,
+      "rawY": 5279.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "(4)",
+      "rawX": 10532.0,
+      "rawY": 5269.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "4팀",
+      "rawX": 9658.0,
+      "rawY": 5279.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "(3)",
+      "rawX": 9557.0,
+      "rawY": 5269.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "5팀",
+      "rawX": 2017.0,
+      "rawY": 15124.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "3팀",
+      "rawX": 2437.0,
+      "rawY": 11333.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "(7)",
+      "rawX": 2337.0,
+      "rawY": 11324.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 10673.0,
+      "rawY": 8986.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 11143.0,
+      "rawY": 8986.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 10908.0,
+      "rawY": 8986.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "금연클리닉",
+      "rawX": 8372.0,
+      "rawY": 14805.0,
+      "fontSize": 255.201,
+      "page": 10
+    },
+    {
+      "text": "1400*800",
+      "rawX": 8291.0,
+      "rawY": 15089.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "1400*800",
+      "rawX": 7918.0,
+      "rawY": 14410.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "1400*800",
+      "rawX": 7918.0,
+      "rawY": 13981.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "1400*800",
+      "rawX": 7918.0,
+      "rawY": 13553.0,
+      "fontSize": 53.081,
+      "page": 10
+    },
+    {
+      "text": "W1200",
+      "rawX": 10115.0,
+      "rawY": 7958.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "W1200",
+      "rawX": 10467.0,
+      "rawY": 7958.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "W1200",
+      "rawX": 10819.0,
+      "rawY": 7958.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "W1200",
+      "rawX": 11171.0,
+      "rawY": 7958.0,
+      "fontSize": 81.664,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 10438.0,
+      "rawY": 8986.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 9132.0,
+      "rawY": 6252.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 9132.0,
+      "rawY": 6721.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 9132.0,
+      "rawY": 6487.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 9132.0,
+      "rawY": 5782.0,
+      "fontSize": 61.248,
+      "page": 10
+    },
+    {
+      "text": "6단",
+      "rawX": 9132.0,
+      "rawY": 6017.0,
+      "fontSize": 61.248,
+      "page": 10
+    }
+  ]
+}

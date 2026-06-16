@@ -1,0 +1,531 @@
+{
+  "page": 17,
+  "labelCount": 75,
+  "labels": [
+    {
+      "text": "EL+5,400",
+      "rawX": 6412.0,
+      "rawY": 10705.0,
+      "fontSize": 118.131,
+      "page": 17
+    },
+    {
+      "text": "교육용 세면대",
+      "rawX": 11002.0,
+      "rawY": 6518.0,
+      "fontSize": 47.252,
+      "page": 17
+    },
+    {
+      "text": "시스템 박스 적용",
+      "rawX": 9328.0,
+      "rawY": 10225.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "홀/복도",
+      "rawX": 6971.0,
+      "rawY": 10867.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "접종실#1",
+      "rawX": 4737.0,
+      "rawY": 13978.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "접종실#2",
+      "rawX": 2951.0,
+      "rawY": 14022.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "예진실",
+      "rawX": 2971.0,
+      "rawY": 12255.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "예방접종실",
+      "rawX": 4267.0,
+      "rawY": 11338.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "창고#3",
+      "rawX": 10533.0,
+      "rawY": 4122.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "창고#1",
+      "rawX": 8669.0,
+      "rawY": 4122.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "사무실",
+      "rawX": 9641.0,
+      "rawY": 13856.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "의사실",
+      "rawX": 12997.0,
+      "rawY": 12403.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "진료실",
+      "rawX": 9905.0,
+      "rawY": 11104.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "교육실",
+      "rawX": 10509.0,
+      "rawY": 7930.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "AI어르신",
+      "rawX": 8500.0,
+      "rawY": 13413.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "소독실",
+      "rawX": 8454.0,
+      "rawY": 11351.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "기계실",
+      "rawX": 13015.0,
+      "rawY": 8672.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "X-RAY실",
+      "rawX": 13456.0,
+      "rawY": 9055.0,
+      "fontSize": 295.328,
+      "page": 17
+    },
+    {
+      "text": "복합기",
+      "rawX": 8365.0,
+      "rawY": 12176.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "세단기",
+      "rawX": 8568.0,
+      "rawY": 12176.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "1400*800",
+      "rawX": 5097.0,
+      "rawY": 13072.0,
+      "fontSize": 61.428,
+      "page": 17
+    },
+    {
+      "text": "옷장",
+      "rawX": 5403.0,
+      "rawY": 12610.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "5단",
+      "rawX": 5146.0,
+      "rawY": 12609.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "1400*800",
+      "rawX": 3000.0,
+      "rawY": 13420.0,
+      "fontSize": 61.428,
+      "page": 17
+    },
+    {
+      "text": "옷장",
+      "rawX": 2703.0,
+      "rawY": 12610.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "5단",
+      "rawX": 2922.0,
+      "rawY": 12609.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "1400*800",
+      "rawX": 3272.0,
+      "rawY": 11756.0,
+      "fontSize": 61.428,
+      "page": 17
+    },
+    {
+      "text": "옷장",
+      "rawX": 2567.0,
+      "rawY": 12368.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "5단",
+      "rawX": 2824.0,
+      "rawY": 12369.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 10542.0,
+      "rawY": 13262.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 10813.0,
+      "rawY": 13262.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "옷장",
+      "rawX": 10166.0,
+      "rawY": 13079.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "3단",
+      "rawX": 11208.0,
+      "rawY": 13086.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "3단",
+      "rawX": 11208.0,
+      "rawY": 12815.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "1200*800",
+      "rawX": 10476.0,
+      "rawY": 13801.0,
+      "fontSize": 47.252,
+      "page": 17
+    },
+    {
+      "text": "1200*800",
+      "rawX": 10048.0,
+      "rawY": 13801.0,
+      "fontSize": 47.252,
+      "page": 17
+    },
+    {
+      "text": "1200*800",
+      "rawX": 9620.0,
+      "rawY": 13801.0,
+      "fontSize": 47.252,
+      "page": 17
+    },
+    {
+      "text": "3인 옷장",
+      "rawX": 11242.0,
+      "rawY": 13341.0,
+      "fontSize": 47.252,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 9263.0,
+      "rawY": 13608.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 9263.0,
+      "rawY": 13880.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "2인 옷장",
+      "rawX": 10077.0,
+      "rawY": 6657.0,
+      "fontSize": 47.252,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 9999.0,
+      "rawY": 7578.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 9999.0,
+      "rawY": 7307.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 9999.0,
+      "rawY": 7035.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "6단",
+      "rawX": 9999.0,
+      "rawY": 7850.0,
+      "fontSize": 70.878,
+      "page": 17
+    },
+    {
+      "text": "D동(별관)_2F 평면도",
+      "rawX": 286.0,
+      "rawY": 16270.0,
+      "fontSize": 567.03,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10710.0,
+      "rawY": 13504.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10200.0,
+      "rawY": 13504.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 9691.0,
+      "rawY": 13504.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10560.0,
+      "rawY": 12627.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10768.0,
+      "rawY": 7845.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10768.0,
+      "rawY": 7029.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10259.0,
+      "rawY": 7845.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10259.0,
+      "rawY": 7029.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 10765.0,
+      "rawY": 12405.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 9300.0,
+      "rawY": 11261.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 8589.0,
+      "rawY": 11318.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 9912.0,
+      "rawY": 7991.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 8589.0,
+      "rawY": 11318.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10574.0,
+      "rawY": 11686.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 10574.0,
+      "rawY": 10650.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 2754.0,
+      "rawY": 11452.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 2754.0,
+      "rawY": 8728.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "C",
+      "rawX": 3269.0,
+      "rawY": 9800.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 4962.0,
+      "rawY": 13602.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 3355.0,
+      "rawY": 11728.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 4323.0,
+      "rawY": 13163.0,
+      "fontSize": 106.318,
+      "page": 17
+    },
+    {
+      "text": "D",
+      "rawX": 3508.0,
+      "rawY": 12029.0,
+      "fontSize": 106.318,
+      "page": 17
+    }
+  ]
+}

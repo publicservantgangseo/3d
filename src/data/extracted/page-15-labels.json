@@ -1,0 +1,433 @@
+{
+  "page": 15,
+  "labelCount": 61,
+  "labels": [
+    {
+      "text": "EL+9,600",
+      "rawX": 10006.0,
+      "rawY": 8513.0,
+      "fontSize": 128.463,
+      "page": 15
+    },
+    {
+      "text": "완",
+      "rawX": 2271.0,
+      "rawY": 6662.0,
+      "fontSize": 128.463,
+      "page": 15
+    },
+    {
+      "text": "서고",
+      "rawX": 6381.0,
+      "rawY": 8646.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "부의장실",
+      "rawX": 12149.0,
+      "rawY": 15291.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "의장실",
+      "rawX": 4215.0,
+      "rawY": 15516.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "중회의실",
+      "rawX": 7780.0,
+      "rawY": 11870.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "ELEV 홀",
+      "rawX": 10316.0,
+      "rawY": 8469.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "위원장실#4",
+      "rawX": 3205.0,
+      "rawY": 13616.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "위원장실#3",
+      "rawX": 2826.0,
+      "rawY": 12020.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "위원장실#2",
+      "rawX": 3253.0,
+      "rawY": 10529.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "위원장실#1",
+      "rawX": 2891.0,
+      "rawY": 9071.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "휴게공간",
+      "rawX": 3925.0,
+      "rawY": 7434.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "사무국장실",
+      "rawX": 9190.0,
+      "rawY": 15836.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "비서실",
+      "rawX": 7066.0,
+      "rawY": 15597.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "탕비실",
+      "rawX": 11861.0,
+      "rawY": 7167.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "화장실",
+      "rawX": 12421.0,
+      "rawY": 11410.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "(",
+      "rawX": 12100.0,
+      "rawY": 11218.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "여",
+      "rawX": 12100.0,
+      "rawY": 11138.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": ")",
+      "rawX": 12100.0,
+      "rawY": 10778.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "화장실",
+      "rawX": 12421.0,
+      "rawY": 12790.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "(",
+      "rawX": 12090.0,
+      "rawY": 12539.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "남",
+      "rawX": 12090.0,
+      "rawY": 12465.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": ")",
+      "rawX": 12090.0,
+      "rawY": 12099.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "재",
+      "rawX": 10774.0,
+      "rawY": 6532.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "재",
+      "rawX": 6063.0,
+      "rawY": 6885.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "재",
+      "rawX": 10730.0,
+      "rawY": 12366.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "재",
+      "rawX": 10730.0,
+      "rawY": 10805.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "탕비실",
+      "rawX": 11861.0,
+      "rawY": 7167.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "(9)",
+      "rawX": 9255.0,
+      "rawY": 4006.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "의정팀",
+      "rawX": 9382.0,
+      "rawY": 4092.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "의사팀",
+      "rawX": 6993.0,
+      "rawY": 4099.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "(5)",
+      "rawX": 4241.0,
+      "rawY": 4006.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "홍보팀",
+      "rawX": 4367.0,
+      "rawY": 4092.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "(3)",
+      "rawX": 3121.0,
+      "rawY": 4006.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "위원회팀",
+      "rawX": 3247.0,
+      "rawY": 4144.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "복합기",
+      "rawX": 5426.0,
+      "rawY": 6000.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "세단기",
+      "rawX": 5648.0,
+      "rawY": 6000.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "복합기",
+      "rawX": 11594.0,
+      "rawY": 3788.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "세단기",
+      "rawX": 11816.0,
+      "rawY": 3788.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "3단",
+      "rawX": 11059.0,
+      "rawY": 6867.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "3단",
+      "rawX": 11354.0,
+      "rawY": 6867.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "Ø900",
+      "rawX": 12327.0,
+      "rawY": 6663.0,
+      "fontSize": 66.8,
+      "page": 15
+    },
+    {
+      "text": "2400*1190",
+      "rawX": 4069.0,
+      "rawY": 15324.0,
+      "fontSize": 66.8,
+      "page": 15
+    },
+    {
+      "text": "2400*1190",
+      "rawX": 4956.0,
+      "rawY": 15324.0,
+      "fontSize": 66.8,
+      "page": 15
+    },
+    {
+      "text": "(7)",
+      "rawX": 6881.0,
+      "rawY": 4006.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "C동(구의회)_3F 평면도",
+      "rawX": 536.0,
+      "rawY": 16364.0,
+      "fontSize": 616.624,
+      "page": 15
+    },
+    {
+      "text": "의회사무국",
+      "rawX": 5625.0,
+      "rawY": 5684.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "전문위원실",
+      "rawX": 11279.0,
+      "rawY": 5632.0,
+      "fontSize": 321.158,
+      "page": 15
+    },
+    {
+      "text": "6단",
+      "rawX": 9741.0,
+      "rawY": 3927.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "6단",
+      "rawX": 9741.0,
+      "rawY": 4222.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "6단",
+      "rawX": 9741.0,
+      "rawY": 4813.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "6단",
+      "rawX": 9741.0,
+      "rawY": 5108.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "6단",
+      "rawX": 9741.0,
+      "rawY": 5404.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "6단",
+      "rawX": 9741.0,
+      "rawY": 5699.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "Ø1500",
+      "rawX": 0.0,
+      "rawY": 0.0,
+      "fontSize": 102.77,
+      "page": 15
+    },
+    {
+      "text": "5단",
+      "rawX": 10539.0,
+      "rawY": 14286.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "5단",
+      "rawX": 10243.0,
+      "rawY": 14286.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "5단",
+      "rawX": 10834.0,
+      "rawY": 14286.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "옷장",
+      "rawX": 11050.0,
+      "rawY": 14269.0,
+      "fontSize": 51.385,
+      "page": 15
+    },
+    {
+      "text": "3단",
+      "rawX": 8260.0,
+      "rawY": 15360.0,
+      "fontSize": 77.078,
+      "page": 15
+    },
+    {
+      "text": "3단",
+      "rawX": 8260.0,
+      "rawY": 15065.0,
+      "fontSize": 77.078,
+      "page": 15
+    }
+  ]
+}
