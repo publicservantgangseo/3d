@@ -1,9 +1,9 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
+import { Camera, ChevronLeft, ChevronRight, Footprints, Rotate3D, RotateCcw } from "lucide-react";
 import { pageIndex } from "@/data/pageIndex";
 import { Scene, SceneSchema } from "@/domain/scene/schema";
-import { InspectorPanel } from "./InspectorPanel";
 import { PageSidebar } from "./PageSidebar";
 import { SceneCanvas } from "./SceneCanvas";
 
@@ -12,11 +12,14 @@ export function ViewerShell() {
   const [scene, setScene] = useState<Scene | null>(null);
   const [focusTarget, setFocusTarget] = useState<[number, number, number] | null>(null);
   const [mode, setMode] = useState<"orbit" | "walk">("orbit");
+  const [resetSignal, setResetSignal] = useState(0);
 
-  const selectedPage = useMemo(
-    () => pageIndex.find((page) => page.id === selectedPageId) ?? pageIndex[0],
+  const selectedPageIndex = useMemo(
+    () => Math.max(0, pageIndex.findIndex((page) => page.id === selectedPageId)),
     [selectedPageId]
   );
+
+  const selectedPage = pageIndex[selectedPageIndex] ?? pageIndex[0];
 
   useEffect(() => {
     let active = true;
@@ -32,27 +35,49 @@ export function ViewerShell() {
     };
   }, [selectedPage]);
 
+  const selectOffset = useCallback(
+    (offset: number) => {
+      const nextIndex = (selectedPageIndex + offset + pageIndex.length) % pageIndex.length;
+      setSelectedPageId(pageIndex[nextIndex].id);
+    },
+    [selectedPageIndex]
+  );
+
+  const resetCamera = useCallback(() => {
+    setFocusTarget(null);
+    setResetSignal((value) => value + 1);
+  }, []);
+
   return (
-    <main className="viewerLayout">
+    <main className="viewerLayout" aria-label="Gangseo 3D viewer">
+      <SceneCanvas scene={scene} focusTarget={focusTarget} mode={mode} resetSignal={resetSignal} />
       <PageSidebar pages={pageIndex} selectedPageId={selectedPageId} onSelectPage={setSelectedPageId} />
-      <section className="viewerMain" aria-label="3D 장면">
-        <header className="viewerToolbar">
-          <div>
-            <span>현재 페이지</span>
-            <strong>{selectedPage.title}</strong>
-          </div>
-          <div className="segmentedControl" aria-label="탐색 모드">
-            <button className={mode === "orbit" ? "isActive" : ""} onClick={() => setMode("orbit")} type="button">
-              3D 보기
-            </button>
-            <button className={mode === "walk" ? "isActive" : ""} onClick={() => setMode("walk")} type="button">
-              보행 보기
-            </button>
-          </div>
-        </header>
-        <SceneCanvas scene={scene} focusTarget={focusTarget} mode={mode} />
-      </section>
-      <InspectorPanel scene={scene} onFocusLabel={setFocusTarget} />
+      <div className="viewerChrome" aria-label="Viewer controls">
+        <button aria-label="Previous page" className="chromeButton" onClick={() => selectOffset(-1)} type="button">
+          <ChevronLeft aria-hidden="true" size={22} strokeWidth={2.4} />
+        </button>
+        <button
+          aria-label={mode === "orbit" ? "Walk mode" : "Orbit mode"}
+          className="chromeButton"
+          onClick={() => setMode((value) => (value === "orbit" ? "walk" : "orbit"))}
+          type="button"
+        >
+          {mode === "orbit" ? (
+            <Footprints aria-hidden="true" size={21} strokeWidth={2.3} />
+          ) : (
+            <Rotate3D aria-hidden="true" size={21} strokeWidth={2.3} />
+          )}
+        </button>
+        <button aria-label="Reset camera" className="chromeButton isPrimary" onClick={resetCamera} type="button">
+          <Camera aria-hidden="true" size={22} strokeWidth={2.35} />
+        </button>
+        <button aria-label="Refresh view" className="chromeButton" onClick={resetCamera} type="button">
+          <RotateCcw aria-hidden="true" size={20} strokeWidth={2.3} />
+        </button>
+        <button aria-label="Next page" className="chromeButton" onClick={() => selectOffset(1)} type="button">
+          <ChevronRight aria-hidden="true" size={22} strokeWidth={2.4} />
+        </button>
+      </div>
     </main>
   );
 }

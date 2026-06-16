@@ -1,7 +1,6 @@
 "use client";
 
 import clsx from "clsx";
-import { Building2 } from "lucide-react";
 import { PageIndexItem } from "@/data/pageIndex";
 
 type Props = {
@@ -12,27 +11,24 @@ type Props = {
 
 export function PageSidebar({ pages, selectedPageId, onSelectPage }: Props) {
   return (
-    <aside className="pageSidebar">
-      <div className="brand">
-        <Building2 size={20} aria-hidden="true" />
-        <div>
-          <strong>강서구 통합신청사</strong>
-          <span>3D 사무공간 뷰어</span>
-        </div>
+    <aside className="pageRail" aria-label="Page navigation">
+      <div className="pageRailTrack">
+        {pages.map((page) => {
+          const active = page.id === selectedPageId;
+          return (
+            <button
+              key={page.id}
+              aria-current={active ? "page" : undefined}
+              aria-label={`Page ${page.pageNumber}`}
+              className={clsx("pageDot", active && "isActive")}
+              onClick={() => onSelectPage(page.id)}
+              type="button"
+            >
+              <span aria-hidden="true" />
+            </button>
+          );
+        })}
       </div>
-      <nav className="pageList" aria-label="평면도 페이지">
-        {pages.map((page) => (
-          <button
-            key={page.id}
-            className={clsx("pageButton", page.id === selectedPageId && "isActive")}
-            onClick={() => onSelectPage(page.id)}
-            type="button"
-          >
-            <span>{String(page.pageNumber).padStart(2, "0")}</span>
-            <strong>{page.title}</strong>
-          </button>
-        ))}
-      </nav>
     </aside>
   );
 }

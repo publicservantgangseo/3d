@@ -39,20 +39,26 @@ const scene: Scene = {
 };
 
 describe("PageSidebar", () => {
-  it("renders pages and selects a page", () => {
+  it("renders textless page controls and selects a page", () => {
     const onSelectPage = vi.fn();
-    render(
+    const { container } = render(
       <PageSidebar
         pages={[
-          { id: "page-01", pageNumber: 1, title: "민원인 라운지", scenePath: "/data/scenes/page-01.json" },
-          { id: "page-18", pageNumber: 18, title: "자원봉사센터/키즈카페", scenePath: "/data/scenes/page-18.json" }
+          { id: "page-01", pageNumber: 1, title: "Public lounge", scenePath: "/data/scenes/page-01.json" },
+          { id: "page-18", pageNumber: 18, title: "Volunteer center", scenePath: "/data/scenes/page-18.json" }
         ]}
         selectedPageId="page-01"
         onSelectPage={onSelectPage}
       />
     );
 
-    fireEvent.click(screen.getByRole("button", { name: /18 자원봉사센터\/키즈카페/ }));
+    const buttons = screen.getAllByRole("button");
+    buttons.forEach((button) => expect(button.textContent).toBe(""));
+    expect(container.textContent).not.toContain("Public lounge");
+    expect(container.textContent).not.toContain("Volunteer center");
+    expect(screen.getByRole("button", { name: "Page 1" }).getAttribute("aria-current")).toBe("page");
+
+    fireEvent.click(screen.getByRole("button", { name: "Page 18" }));
     expect(onSelectPage).toHaveBeenCalledWith("page-18");
   });
 });

@@ -1,8 +1,8 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect } from "react";
 import { Canvas, useThree } from "@react-three/fiber";
-import { Grid, OrbitControls, PerspectiveCamera } from "@react-three/drei";
+import { OrbitControls, PerspectiveCamera } from "@react-three/drei";
 import { Scene } from "@/domain/scene/schema";
 import { SceneObjects } from "./SceneObjects";
 
@@ -10,49 +10,88 @@ type Props = {
   scene: Scene | null;
   focusTarget: [number, number, number] | null;
   mode: "orbit" | "walk";
+  resetSignal: number;
 };
 
-export function SceneCanvas({ scene, focusTarget, mode }: Props) {
-  const [showLabels, setShowLabels] = useState(true);
+export function SceneCanvas({ scene, focusTarget, mode, resetSignal }: Props) {
+  const orbitTarget: [number, number, number] = focusTarget ?? [0, mode === "walk" ? 0.9 : 0.45, 0];
 
   return (
     <div className="sceneCanvasWrap">
-      <div className="sceneControls">
-        <button type="button" onClick={() => setShowLabels((value) => !value)}>
-          {showLabels ? "라벨 숨기기" : "라벨 보기"}
-        </button>
-        <span>{mode === "orbit" ? "Orbit" : "Walk preview"}</span>
-      </div>
       {!scene ? (
-        <div className="sceneLoading">장면 로딩 중</div>
+        <div aria-label="Loading scene" className="sceneLoading">
+          <span aria-hidden="true" />
+        </div>
       ) : (
-        <Canvas shadows camera={{ position: [0, 13, 15], fov: 48 }} style={{ height: "100%", width: "100%" }}>
-          <color attach="background" args={["#dfe7ef"]} />
-          <ambientLight intensity={0.65} />
-          <directionalLight position={[10, 18, 8]} intensity={1.2} castShadow />
-          <PerspectiveCamera makeDefault position={scene.cameraPresets[0].position} />
-          <CameraFocus focusTarget={focusTarget} />
-          <SceneObjects scene={scene} showLabels={showLabels} />
-          <Grid args={[30, 30]} cellSize={1} cellThickness={0.5} sectionSize={5} sectionThickness={1.2} fadeDistance={45} />
-          <OrbitControls enabled={mode === "orbit"} target={scene.cameraPresets[0].target} />
+        <Canvas
+          camera={{ position: [7.4, 6.2, 8.7], fov: 43, near: 0.1, far: 90 }}
+          dpr={[1, 1.8]}
+          gl={{ antialias: true }}
+          style={{ height: "100%", width: "100%" }}
+        >
+          <color attach="background" args={["#cbd4d0"]} />
+          <fog attach="fog" args={["#cbd4d0", 18, 44]} />
+          <hemisphereLight args={["#fff8e7", "#56615c", 1.05]} />
+          <directionalLight
+            intensity={1.28}
+            position={[-5.5, 12, 7.5]}
+          />
+          <spotLight color="#fff1c2" intensity={0.85} angle={0.74} penumbra={0.45} position={[4, 6, 4]} />
+          <PerspectiveCamera makeDefault fov={43} near={0.1} far={90} />
+          <CameraRig scene={scene} focusTarget={focusTarget} mode={mode} resetSignal={resetSignal} />
+          <SceneObjects scene={scene} />
+          <OrbitControls
+            dampingFactor={0.08}
+            enableDamping
+            makeDefault
+            maxDistance={mode === "walk" ? 14 : 25}
+            maxPolarAngle={Math.PI * 0.48}
+            minDistance={mode === "walk" ? 1.4 : 3.8}
+            minPolarAngle={Math.PI * 0.17}
+            target={orbitTarget}
+          />
         </Canvas>
       )}
     </div>
   );
 }
 
-function CameraFocus({ focusTarget }: { focusTarget: [number, number, number] | null }) {
+function CameraRig({
+  scene,
+  focusTarget,
+  mode,
+  resetSignal
+}: {
+  scene: Scene;
+  focusTarget: [number, number, number] | null;
+  mode: "orbit" | "walk";
+  resetSignal: number;
+}) {
   const { camera } = useThree();
-  const lastFocus = useRef<string>("");
+  const focusKey = focusTarget ? focusTarget.join(",") : "scene";
 
   useEffect(() => {
-    if (!focusTarget) return;
-    const key = focusTarget.join(",");
-    if (key === lastFocus.current) return;
-    lastFocus.current = key;
-    camera.position.set(focusTarget[0] + 4, 8, focusTarget[2] + 6);
-    camera.lookAt(focusTarget[0], 0, focusTarget[2]);
-  }, [camera, focusTarget]);
+    const floorWidth = scene.scale.pdfWidth * scene.scale.worldUnitsPerPdfPoint;
+    const floorDepth = scene.scale.pdfHeight * scene.scale.worldUnitsPerPdfPoint;
+    const target: [number, number, number] = focusTarget ?? [0, mode === "walk" ? 0.9 : 0.45, 0];
+
+    const position: [number, number, number] =
+      mode === "walk"
+        ? [
+            target[0] + Math.max(2.6, floorWidth * 0.34),
+            1.85,
+            target[2] + Math.max(3.2, floorDepth * 0.28)
+          ]
+        : [
+            target[0] + Math.max(5.8, floorWidth * 0.78),
+            Math.max(5.8, floorDepth * 0.5),
+            target[2] + Math.max(6.6, floorDepth * 0.62)
+          ];
+
+    camera.position.set(position[0], position[1], position[2]);
+    camera.lookAt(target[0], target[1], target[2]);
+    camera.updateProjectionMatrix();
+  }, [camera, scene.id, scene.scale.pdfHeight, scene.scale.pdfWidth, scene.scale.worldUnitsPerPdfPoint, focusKey, mode, resetSignal, focusTarget]);
 
   return null;
 }
