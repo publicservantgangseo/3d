@@ -1,1 +1,8 @@
 .superpowers/
+.next/
+node_modules/
+out/
+dist/
+coverage/
+.env
+.env.local

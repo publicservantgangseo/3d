@@ -1,0 +1,37 @@
+{
+  "name": "gangseo-3d-office-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "extract:labels": "py -3 -X utf8 scripts/extract_pdf_labels.py --pdf \"Integrated New Public Service Center_Gangseo.pdf\" --out src/data/extracted",
+    "generate:scenes": "py -3 -X utf8 scripts/generate_scene_drafts.py --labels src/data/extracted --out src/data/scenes --public-out public/data/scenes",
+    "validate:scenes": "node scripts/validate_scenes.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "latest",
+    "@react-three/fiber": "latest",
+    "clsx": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/three": "latest",
+    "jsdom": "26.1.0",
+    "typescript": "latest",
+    "vitest": "latest"
+  }
+}
