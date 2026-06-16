@@ -10,7 +10,8 @@
     "test:watch": "vitest",
     "extract:labels": "py -3 -X utf8 scripts/extract_pdf_labels.py --pdf \"Integrated New Public Service Center_Gangseo.pdf\" --out src/data/extracted",
     "generate:scenes": "py -3 -X utf8 scripts/generate_scene_drafts.py --labels src/data/extracted --out src/data/scenes --public-out public/data/scenes",
-    "validate:scenes": "node scripts/validate_scenes.mjs"
+    "validate:scenes": "node scripts/validate_scenes.mjs",
+    "verify": "npm run test && npm run validate:scenes && npm run build"
   },
   "dependencies": {
     "@react-three/drei": "latest",
